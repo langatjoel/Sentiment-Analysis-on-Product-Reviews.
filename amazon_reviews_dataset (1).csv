@@ -1,0 +1,1501 @@
+review_id,product_category,product_name,user_id,review_title,review_text,rating,verified_purchase,helpful_votes,sentiment
+1,Electronics,Laptop,U7331,Terrible,Really disappointed with the Laptop.,4,Yes,20,Positive
+2,Fashion,Sneakers,U2623,Loved it,"The Sneakers is amazing, I love it!",2,Yes,19,Negative
+3,Electronics,Laptop,U9695,Okay,The Laptop stopped working after a week.,1,No,27,Negative
+4,Fashion,Jeans,U8028,Terrible,The Jeans stopped working after a week.,3,No,5,Neutral
+5,Books,Cookbook,U9882,Loved it,Decent Cookbook for the price point.,5,Yes,14,Positive
+6,Books,Cookbook,U8981,Great!,Decent Cookbook for the price point.,3,No,19,Neutral
+7,Fashion,Sneakers,U8976,Not good,Exceeded my expectations! Great Sneakers.,4,Yes,18,Positive
+8,Fashion,Jeans,U6620,Okay,The Jeans stopped working after a week.,1,Yes,31,Negative
+9,Electronics,Bluetooth Speaker,U6448,Okay,Exceeded my expectations! Great Bluetooth Speaker.,3,Yes,30,Neutral
+10,Home & Kitchen,Blender,U7687,Loved it,The Blender stopped working after a week.,3,No,17,Neutral
+11,Home & Kitchen,Microwave Oven,U2045,Not good,I use this Microwave Oven every day and it’s fantastic.,4,No,18,Positive
+12,Books,Fiction Novel,U7524,Okay,Decent Fiction Novel for the price point.,5,No,25,Positive
+13,Home & Kitchen,Coffee Maker,U8641,Terrible,"The Coffee Maker works okay, but could be better.",4,No,45,Positive
+14,Electronics,Smartphone,U2324,Not good,Exceeded my expectations! Great Smartphone.,2,Yes,46,Negative
+15,Home & Kitchen,Coffee Maker,U9192,Terrible,"The Coffee Maker works okay, but could be better.",2,Yes,7,Negative
+16,Beauty,Lipstick,U9726,Loved it,"The Lipstick is amazing, I love it!",3,No,36,Neutral
+17,Home & Kitchen,Vacuum Cleaner,U8897,Loved it,Exceeded my expectations! Great Vacuum Cleaner.,2,No,16,Negative
+18,Home & Kitchen,Air Fryer,U6589,Not good,Exceeded my expectations! Great Air Fryer.,5,Yes,19,Positive
+19,Beauty,Perfume,U9675,Okay,"The Perfume works okay, but could be better.",4,Yes,31,Positive
+20,Home & Kitchen,Blender,U2560,Not good,I use this Blender every day and it’s fantastic.,5,No,46,Positive
+21,Fashion,T-shirt,U4657,Okay,I use this T-shirt every day and it’s fantastic.,5,No,3,Positive
+22,Beauty,Shampoo,U9499,Great!,"The Shampoo is amazing, I love it!",1,Yes,36,Negative
+23,Electronics,Smartwatch,U7946,Not good,Decent Smartwatch for the price point.,5,Yes,6,Positive
+24,Beauty,Shampoo,U5201,Terrible,"The Shampoo is amazing, I love it!",2,Yes,34,Negative
+25,Books,Self-help Book,U7957,Okay,Decent Self-help Book for the price point.,2,Yes,31,Negative
+26,Beauty,Face Cream,U7498,Loved it,"The Face Cream works okay, but could be better.",5,Yes,46,Positive
+27,Electronics,Wireless Headphones,U2028,Okay,"Not worth the money, poor quality Wireless Headphones.",5,No,36,Positive
+28,Home & Kitchen,Vacuum Cleaner,U4487,Okay,I use this Vacuum Cleaner every day and it’s fantastic.,1,No,15,Negative
+29,Fashion,Sneakers,U4084,Not good,"The Sneakers works okay, but could be better.",5,No,19,Positive
+30,Books,Self-help Book,U2449,Terrible,The Self-help Book stopped working after a week.,5,Yes,41,Positive
+31,Fashion,Handbag,U6033,Terrible,"The Handbag is amazing, I love it!",2,No,38,Negative
+32,Books,Fiction Novel,U5585,Terrible,"The Fiction Novel works okay, but could be better.",2,Yes,23,Negative
+33,Home & Kitchen,Coffee Maker,U5629,Loved it,The Coffee Maker stopped working after a week.,2,Yes,18,Negative
+34,Fashion,Jeans,U9069,Terrible,Really disappointed with the Jeans.,3,No,17,Neutral
+35,Electronics,Bluetooth Speaker,U7802,Terrible,"Not worth the money, poor quality Bluetooth Speaker.",4,Yes,40,Positive
+36,Beauty,Hair Dryer,U8708,Great!,"The Hair Dryer is amazing, I love it!",4,No,14,Positive
+37,Fashion,T-shirt,U5419,Terrible,Exceeded my expectations! Great T-shirt.,1,Yes,10,Negative
+38,Beauty,Perfume,U9396,Okay,"The Perfume works okay, but could be better.",1,No,2,Negative
+39,Electronics,Smartphone,U5638,Loved it,"Not worth the money, poor quality Smartphone.",2,No,41,Negative
+40,Home & Kitchen,Vacuum Cleaner,U2166,Not good,Really disappointed with the Vacuum Cleaner.,2,Yes,13,Negative
+41,Books,Self-help Book,U3691,Terrible,Decent Self-help Book for the price point.,2,No,26,Negative
+42,Beauty,Hair Dryer,U8488,Loved it,Exceeded my expectations! Great Hair Dryer.,4,No,39,Positive
+43,Books,Cookbook,U3218,Terrible,Exceeded my expectations! Great Cookbook.,2,No,14,Negative
+44,Home & Kitchen,Microwave Oven,U7211,Great!,Exceeded my expectations! Great Microwave Oven.,2,Yes,18,Negative
+45,Home & Kitchen,Blender,U4960,Great!,Exceeded my expectations! Great Blender.,5,Yes,24,Positive
+46,Beauty,Shampoo,U2804,Great!,Decent Shampoo for the price point.,2,No,36,Negative
+47,Fashion,Sneakers,U6810,Great!,Really disappointed with the Sneakers.,3,No,5,Neutral
+48,Books,Cookbook,U1929,Not good,Decent Cookbook for the price point.,4,Yes,28,Positive
+49,Fashion,Handbag,U6395,Terrible,"The Handbag is amazing, I love it!",1,No,29,Negative
+50,Home & Kitchen,Coffee Maker,U7349,Great!,"The Coffee Maker works okay, but could be better.",2,Yes,11,Negative
+51,Home & Kitchen,Air Fryer,U2009,Not good,Decent Air Fryer for the price point.,3,No,36,Neutral
+52,Books,Self-help Book,U9922,Terrible,The Self-help Book stopped working after a week.,5,No,28,Positive
+53,Home & Kitchen,Vacuum Cleaner,U5625,Loved it,Decent Vacuum Cleaner for the price point.,1,Yes,28,Negative
+54,Home & Kitchen,Coffee Maker,U3346,Okay,Exceeded my expectations! Great Coffee Maker.,2,Yes,12,Negative
+55,Electronics,Smartphone,U4448,Okay,"The Smartphone is amazing, I love it!",4,Yes,30,Positive
+56,Beauty,Perfume,U9291,Not good,Exceeded my expectations! Great Perfume.,1,No,31,Negative
+57,Electronics,Smartphone,U8373,Great!,"The Smartphone works okay, but could be better.",5,No,31,Positive
+58,Electronics,Smartphone,U3432,Okay,Decent Smartphone for the price point.,2,No,35,Negative
+59,Books,Children's Story,U5298,Great!,Decent Children's Story for the price point.,2,Yes,14,Negative
+60,Home & Kitchen,Coffee Maker,U5515,Not good,I use this Coffee Maker every day and it’s fantastic.,1,No,15,Negative
+61,Beauty,Lipstick,U2044,Okay,"Not worth the money, poor quality Lipstick.",2,No,18,Negative
+62,Home & Kitchen,Microwave Oven,U3069,Great!,Exceeded my expectations! Great Microwave Oven.,4,Yes,35,Positive
+63,Books,Self-help Book,U3966,Not good,"The Self-help Book is amazing, I love it!",5,No,30,Positive
+64,Home & Kitchen,Microwave Oven,U5319,Not good,"The Microwave Oven is amazing, I love it!",1,No,42,Negative
+65,Beauty,Lipstick,U6024,Loved it,"The Lipstick works okay, but could be better.",1,No,37,Negative
+66,Fashion,T-shirt,U2476,Great!,"The T-shirt is amazing, I love it!",2,Yes,1,Negative
+67,Books,Self-help Book,U6826,Loved it,Really disappointed with the Self-help Book.,2,No,31,Negative
+68,Books,Children's Story,U7165,Great!,Decent Children's Story for the price point.,5,No,47,Positive
+69,Books,Biography,U8060,Okay,The Biography stopped working after a week.,5,No,39,Positive
+70,Beauty,Hair Dryer,U9084,Terrible,"The Hair Dryer is amazing, I love it!",5,No,7,Positive
+71,Electronics,Laptop,U4421,Great!,The Laptop stopped working after a week.,1,No,34,Negative
+72,Electronics,Wireless Headphones,U7228,Terrible,"The Wireless Headphones is amazing, I love it!",2,Yes,8,Negative
+73,Electronics,Smartwatch,U2103,Not good,I use this Smartwatch every day and it’s fantastic.,1,No,15,Negative
+74,Books,Children's Story,U4246,Great!,The Children's Story stopped working after a week.,5,No,16,Positive
+75,Fashion,T-shirt,U5974,Okay,Exceeded my expectations! Great T-shirt.,3,No,25,Neutral
+76,Fashion,Jacket,U9583,Not good,"Not worth the money, poor quality Jacket.",4,Yes,6,Positive
+77,Electronics,Smartphone,U8856,Terrible,Exceeded my expectations! Great Smartphone.,5,No,47,Positive
+78,Fashion,Jeans,U5022,Loved it,The Jeans stopped working after a week.,2,Yes,4,Negative
+79,Fashion,Jacket,U2374,Okay,"Not worth the money, poor quality Jacket.",3,Yes,36,Neutral
+80,Fashion,T-shirt,U9460,Okay,I use this T-shirt every day and it’s fantastic.,2,Yes,37,Negative
+81,Home & Kitchen,Blender,U7849,Not good,Really disappointed with the Blender.,5,No,14,Positive
+82,Beauty,Hair Dryer,U8410,Great!,Really disappointed with the Hair Dryer.,3,Yes,7,Neutral
+83,Electronics,Laptop,U7468,Great!,Really disappointed with the Laptop.,5,Yes,1,Positive
+84,Beauty,Lipstick,U5733,Not good,"The Lipstick is amazing, I love it!",1,Yes,6,Negative
+85,Fashion,Sneakers,U2734,Terrible,"The Sneakers works okay, but could be better.",3,Yes,42,Neutral
+86,Books,Fiction Novel,U4723,Okay,"The Fiction Novel is amazing, I love it!",1,Yes,14,Negative
+87,Electronics,Smartphone,U2084,Loved it,"The Smartphone works okay, but could be better.",4,Yes,38,Positive
+88,Books,Cookbook,U9031,Not good,Really disappointed with the Cookbook.,5,No,40,Positive
+89,Books,Biography,U6005,Loved it,"The Biography is amazing, I love it!",3,No,28,Neutral
+90,Books,Children's Story,U4436,Terrible,"The Children's Story is amazing, I love it!",3,Yes,20,Neutral
+91,Electronics,Bluetooth Speaker,U3934,Great!,I use this Bluetooth Speaker every day and it’s fantastic.,4,No,7,Positive
+92,Electronics,Laptop,U4069,Terrible,"The Laptop works okay, but could be better.",3,No,0,Neutral
+93,Beauty,Lipstick,U1677,Not good,Exceeded my expectations! Great Lipstick.,5,Yes,19,Positive
+94,Books,Self-help Book,U2052,Terrible,Exceeded my expectations! Great Self-help Book.,4,Yes,17,Positive
+95,Books,Biography,U1161,Okay,Decent Biography for the price point.,2,Yes,39,Negative
+96,Home & Kitchen,Blender,U5205,Loved it,The Blender stopped working after a week.,2,No,47,Negative
+97,Books,Self-help Book,U7158,Not good,"The Self-help Book works okay, but could be better.",4,Yes,23,Positive
+98,Electronics,Smartphone,U6153,Loved it,Exceeded my expectations! Great Smartphone.,1,Yes,32,Negative
+99,Home & Kitchen,Microwave Oven,U9254,Not good,Exceeded my expectations! Great Microwave Oven.,3,No,4,Neutral
+100,Beauty,Shampoo,U4637,Great!,Decent Shampoo for the price point.,4,No,43,Positive
+101,Fashion,Jeans,U5957,Not good,I use this Jeans every day and it’s fantastic.,5,Yes,11,Positive
+102,Beauty,Lipstick,U7547,Terrible,I use this Lipstick every day and it’s fantastic.,4,No,33,Positive
+103,Home & Kitchen,Blender,U8029,Not good,Really disappointed with the Blender.,5,Yes,23,Positive
+104,Fashion,Jacket,U9444,Great!,The Jacket stopped working after a week.,5,Yes,4,Positive
+105,Fashion,Handbag,U3747,Loved it,"Not worth the money, poor quality Handbag.",5,No,0,Positive
+106,Fashion,T-shirt,U3533,Okay,"The T-shirt is amazing, I love it!",1,No,25,Negative
+107,Books,Cookbook,U7081,Great!,I use this Cookbook every day and it’s fantastic.,3,No,48,Neutral
+108,Electronics,Wireless Headphones,U4295,Loved it,Decent Wireless Headphones for the price point.,5,No,30,Positive
+109,Beauty,Hair Dryer,U1867,Great!,The Hair Dryer stopped working after a week.,2,No,18,Negative
+110,Electronics,Laptop,U8082,Loved it,The Laptop stopped working after a week.,5,No,41,Positive
+111,Books,Cookbook,U4814,Terrible,Decent Cookbook for the price point.,4,No,39,Positive
+112,Beauty,Face Cream,U2467,Loved it,I use this Face Cream every day and it’s fantastic.,2,Yes,9,Negative
+113,Beauty,Face Cream,U2605,Great!,Decent Face Cream for the price point.,4,No,21,Positive
+114,Beauty,Shampoo,U7082,Not good,I use this Shampoo every day and it’s fantastic.,2,No,40,Negative
+115,Books,Biography,U1855,Terrible,I use this Biography every day and it’s fantastic.,1,Yes,3,Negative
+116,Beauty,Lipstick,U4425,Not good,"The Lipstick is amazing, I love it!",1,No,12,Negative
+117,Books,Fiction Novel,U2156,Loved it,The Fiction Novel stopped working after a week.,4,No,49,Positive
+118,Home & Kitchen,Vacuum Cleaner,U1390,Not good,"The Vacuum Cleaner is amazing, I love it!",5,Yes,10,Positive
+119,Beauty,Perfume,U2498,Terrible,"Not worth the money, poor quality Perfume.",2,No,0,Negative
+120,Home & Kitchen,Air Fryer,U8833,Not good,Decent Air Fryer for the price point.,1,Yes,42,Negative
+121,Home & Kitchen,Air Fryer,U5744,Loved it,Decent Air Fryer for the price point.,3,Yes,42,Neutral
+122,Books,Fiction Novel,U7868,Great!,"The Fiction Novel works okay, but could be better.",3,Yes,43,Neutral
+123,Beauty,Lipstick,U7388,Loved it,"The Lipstick works okay, but could be better.",4,Yes,35,Positive
+124,Fashion,Jacket,U8712,Great!,"Not worth the money, poor quality Jacket.",5,No,4,Positive
+125,Fashion,Handbag,U2161,Terrible,The Handbag stopped working after a week.,1,Yes,30,Negative
+126,Beauty,Hair Dryer,U7474,Great!,Really disappointed with the Hair Dryer.,5,Yes,16,Positive
+127,Books,Self-help Book,U4041,Not good,Exceeded my expectations! Great Self-help Book.,2,Yes,45,Negative
+128,Books,Fiction Novel,U9148,Not good,"Not worth the money, poor quality Fiction Novel.",4,Yes,46,Positive
+129,Home & Kitchen,Microwave Oven,U3109,Great!,"Not worth the money, poor quality Microwave Oven.",3,No,14,Neutral
+130,Home & Kitchen,Vacuum Cleaner,U5277,Loved it,Decent Vacuum Cleaner for the price point.,5,Yes,6,Positive
+131,Beauty,Lipstick,U9236,Not good,Decent Lipstick for the price point.,5,No,13,Positive
+132,Fashion,Sneakers,U2737,Okay,Exceeded my expectations! Great Sneakers.,4,Yes,47,Positive
+133,Books,Children's Story,U1632,Terrible,"Not worth the money, poor quality Children's Story.",1,Yes,36,Negative
+134,Books,Self-help Book,U2193,Great!,"The Self-help Book is amazing, I love it!",3,No,5,Neutral
+135,Fashion,T-shirt,U2633,Terrible,The T-shirt stopped working after a week.,5,No,22,Positive
+136,Beauty,Lipstick,U8373,Okay,"Not worth the money, poor quality Lipstick.",2,No,35,Negative
+137,Home & Kitchen,Air Fryer,U2676,Okay,Exceeded my expectations! Great Air Fryer.,5,No,49,Positive
+138,Books,Fiction Novel,U8914,Okay,The Fiction Novel stopped working after a week.,1,Yes,46,Negative
+139,Beauty,Shampoo,U3724,Terrible,Decent Shampoo for the price point.,2,No,8,Negative
+140,Electronics,Smartphone,U4180,Loved it,"The Smartphone is amazing, I love it!",2,Yes,17,Negative
+141,Electronics,Wireless Headphones,U9759,Okay,"The Wireless Headphones works okay, but could be better.",1,No,47,Negative
+142,Fashion,Handbag,U4181,Great!,"The Handbag works okay, but could be better.",4,Yes,26,Positive
+143,Books,Children's Story,U4041,Not good,"The Children's Story is amazing, I love it!",1,Yes,29,Negative
+144,Books,Self-help Book,U8808,Great!,Exceeded my expectations! Great Self-help Book.,1,No,11,Negative
+145,Books,Fiction Novel,U9224,Great!,Decent Fiction Novel for the price point.,4,Yes,39,Positive
+146,Beauty,Lipstick,U2472,Great!,I use this Lipstick every day and it’s fantastic.,5,Yes,2,Positive
+147,Books,Cookbook,U6358,Terrible,I use this Cookbook every day and it’s fantastic.,3,No,6,Neutral
+148,Books,Biography,U5965,Great!,"The Biography is amazing, I love it!",5,No,33,Positive
+149,Beauty,Hair Dryer,U2976,Not good,Really disappointed with the Hair Dryer.,2,No,2,Negative
+150,Fashion,T-shirt,U1880,Great!,"Not worth the money, poor quality T-shirt.",2,Yes,20,Negative
+151,Beauty,Lipstick,U6138,Okay,"The Lipstick works okay, but could be better.",4,Yes,21,Positive
+152,Electronics,Bluetooth Speaker,U7521,Loved it,Really disappointed with the Bluetooth Speaker.,1,Yes,43,Negative
+153,Beauty,Face Cream,U1758,Terrible,Exceeded my expectations! Great Face Cream.,2,Yes,24,Negative
+154,Home & Kitchen,Coffee Maker,U1278,Great!,Decent Coffee Maker for the price point.,1,Yes,31,Negative
+155,Beauty,Perfume,U5400,Loved it,"The Perfume is amazing, I love it!",4,No,17,Positive
+156,Electronics,Bluetooth Speaker,U1458,Okay,I use this Bluetooth Speaker every day and it’s fantastic.,3,No,3,Neutral
+157,Beauty,Face Cream,U4737,Okay,"The Face Cream works okay, but could be better.",4,Yes,18,Positive
+158,Home & Kitchen,Blender,U5651,Loved it,I use this Blender every day and it’s fantastic.,4,Yes,48,Positive
+159,Books,Children's Story,U7309,Not good,"The Children's Story is amazing, I love it!",3,No,0,Neutral
+160,Beauty,Shampoo,U1483,Great!,"Not worth the money, poor quality Shampoo.",4,No,6,Positive
+161,Electronics,Bluetooth Speaker,U8726,Terrible,Decent Bluetooth Speaker for the price point.,2,No,1,Negative
+162,Home & Kitchen,Coffee Maker,U1571,Not good,I use this Coffee Maker every day and it’s fantastic.,3,Yes,14,Neutral
+163,Electronics,Wireless Headphones,U3434,Loved it,Exceeded my expectations! Great Wireless Headphones.,4,Yes,49,Positive
+164,Beauty,Hair Dryer,U4630,Loved it,Exceeded my expectations! Great Hair Dryer.,4,Yes,48,Positive
+165,Beauty,Face Cream,U5165,Not good,Decent Face Cream for the price point.,2,No,0,Negative
+166,Fashion,T-shirt,U3827,Okay,"The T-shirt works okay, but could be better.",4,Yes,25,Positive
+167,Home & Kitchen,Blender,U2059,Terrible,"Not worth the money, poor quality Blender.",1,Yes,23,Negative
+168,Books,Cookbook,U2129,Not good,"The Cookbook works okay, but could be better.",3,No,25,Neutral
+169,Fashion,Jeans,U2786,Terrible,Really disappointed with the Jeans.,4,Yes,39,Positive
+170,Home & Kitchen,Air Fryer,U7977,Loved it,"The Air Fryer works okay, but could be better.",2,No,47,Negative
+171,Books,Fiction Novel,U2771,Not good,The Fiction Novel stopped working after a week.,2,Yes,47,Negative
+172,Books,Cookbook,U1735,Okay,I use this Cookbook every day and it’s fantastic.,5,No,37,Positive
+173,Home & Kitchen,Air Fryer,U7205,Okay,Exceeded my expectations! Great Air Fryer.,1,Yes,21,Negative
+174,Home & Kitchen,Vacuum Cleaner,U8799,Great!,Exceeded my expectations! Great Vacuum Cleaner.,4,No,24,Positive
+175,Books,Children's Story,U5186,Terrible,Really disappointed with the Children's Story.,5,No,48,Positive
+176,Electronics,Laptop,U1051,Great!,"The Laptop is amazing, I love it!",2,Yes,35,Negative
+177,Electronics,Wireless Headphones,U9305,Okay,I use this Wireless Headphones every day and it’s fantastic.,3,No,35,Neutral
+178,Books,Cookbook,U6572,Great!,"The Cookbook works okay, but could be better.",3,Yes,20,Neutral
+179,Books,Cookbook,U8784,Terrible,Decent Cookbook for the price point.,5,Yes,36,Positive
+180,Books,Fiction Novel,U6202,Not good,I use this Fiction Novel every day and it’s fantastic.,3,Yes,25,Neutral
+181,Beauty,Lipstick,U2837,Terrible,I use this Lipstick every day and it’s fantastic.,2,Yes,6,Negative
+182,Beauty,Face Cream,U2812,Loved it,I use this Face Cream every day and it’s fantastic.,1,No,26,Negative
+183,Beauty,Face Cream,U8456,Great!,I use this Face Cream every day and it’s fantastic.,2,No,13,Negative
+184,Beauty,Face Cream,U1764,Terrible,The Face Cream stopped working after a week.,2,No,48,Negative
+185,Home & Kitchen,Air Fryer,U2660,Loved it,"Not worth the money, poor quality Air Fryer.",2,Yes,41,Negative
+186,Books,Fiction Novel,U9921,Great!,"The Fiction Novel works okay, but could be better.",1,No,14,Negative
+187,Home & Kitchen,Vacuum Cleaner,U7193,Not good,Decent Vacuum Cleaner for the price point.,3,No,15,Neutral
+188,Beauty,Shampoo,U1991,Great!,"The Shampoo works okay, but could be better.",1,Yes,36,Negative
+189,Home & Kitchen,Microwave Oven,U7210,Terrible,Exceeded my expectations! Great Microwave Oven.,5,Yes,8,Positive
+190,Books,Self-help Book,U9662,Not good,Exceeded my expectations! Great Self-help Book.,1,No,31,Negative
+191,Home & Kitchen,Vacuum Cleaner,U2535,Not good,Exceeded my expectations! Great Vacuum Cleaner.,2,Yes,41,Negative
+192,Books,Self-help Book,U6816,Terrible,The Self-help Book stopped working after a week.,1,No,40,Negative
+193,Beauty,Perfume,U6369,Okay,Decent Perfume for the price point.,1,Yes,3,Negative
+194,Electronics,Bluetooth Speaker,U6908,Terrible,Really disappointed with the Bluetooth Speaker.,5,No,39,Positive
+195,Books,Cookbook,U7696,Great!,I use this Cookbook every day and it’s fantastic.,1,No,38,Negative
+196,Fashion,T-shirt,U6860,Not good,"The T-shirt is amazing, I love it!",5,No,30,Positive
+197,Fashion,Sneakers,U4578,Loved it,Really disappointed with the Sneakers.,3,No,15,Neutral
+198,Books,Children's Story,U1574,Great!,I use this Children's Story every day and it’s fantastic.,2,Yes,18,Negative
+199,Electronics,Wireless Headphones,U9091,Terrible,The Wireless Headphones stopped working after a week.,2,Yes,35,Negative
+200,Home & Kitchen,Coffee Maker,U8394,Not good,I use this Coffee Maker every day and it’s fantastic.,4,No,6,Positive
+201,Electronics,Wireless Headphones,U4204,Loved it,Decent Wireless Headphones for the price point.,5,No,20,Positive
+202,Beauty,Hair Dryer,U9112,Okay,I use this Hair Dryer every day and it’s fantastic.,4,No,21,Positive
+203,Fashion,Handbag,U7706,Loved it,Really disappointed with the Handbag.,3,Yes,5,Neutral
+204,Books,Self-help Book,U6649,Not good,"Not worth the money, poor quality Self-help Book.",1,No,2,Negative
+205,Books,Fiction Novel,U1797,Terrible,Decent Fiction Novel for the price point.,5,Yes,17,Positive
+206,Home & Kitchen,Coffee Maker,U1913,Terrible,"The Coffee Maker is amazing, I love it!",4,Yes,7,Positive
+207,Fashion,Jeans,U9945,Loved it,"Not worth the money, poor quality Jeans.",2,No,31,Negative
+208,Electronics,Bluetooth Speaker,U8322,Okay,Exceeded my expectations! Great Bluetooth Speaker.,4,Yes,20,Positive
+209,Home & Kitchen,Air Fryer,U5332,Terrible,Really disappointed with the Air Fryer.,2,No,48,Negative
+210,Fashion,Sneakers,U7468,Great!,Exceeded my expectations! Great Sneakers.,3,No,3,Neutral
+211,Books,Biography,U2819,Terrible,The Biography stopped working after a week.,5,No,45,Positive
+212,Electronics,Laptop,U3465,Not good,Really disappointed with the Laptop.,5,No,11,Positive
+213,Fashion,T-shirt,U9976,Terrible,"The T-shirt is amazing, I love it!",4,No,26,Positive
+214,Fashion,Jacket,U1116,Great!,Decent Jacket for the price point.,1,No,12,Negative
+215,Beauty,Perfume,U2312,Okay,Really disappointed with the Perfume.,1,No,44,Negative
+216,Fashion,Handbag,U7791,Loved it,"The Handbag is amazing, I love it!",4,No,4,Positive
+217,Books,Biography,U3363,Terrible,Exceeded my expectations! Great Biography.,3,No,0,Neutral
+218,Electronics,Smartwatch,U6757,Terrible,"Not worth the money, poor quality Smartwatch.",5,Yes,12,Positive
+219,Electronics,Laptop,U2070,Loved it,I use this Laptop every day and it’s fantastic.,4,Yes,23,Positive
+220,Fashion,Jacket,U3876,Great!,"The Jacket is amazing, I love it!",3,No,14,Neutral
+221,Beauty,Face Cream,U1126,Okay,Decent Face Cream for the price point.,1,Yes,0,Negative
+222,Electronics,Bluetooth Speaker,U8740,Great!,Really disappointed with the Bluetooth Speaker.,5,Yes,21,Positive
+223,Home & Kitchen,Air Fryer,U5795,Okay,The Air Fryer stopped working after a week.,5,Yes,17,Positive
+224,Books,Cookbook,U3724,Okay,I use this Cookbook every day and it’s fantastic.,5,No,36,Positive
+225,Beauty,Hair Dryer,U8849,Okay,"The Hair Dryer works okay, but could be better.",4,Yes,35,Positive
+226,Electronics,Bluetooth Speaker,U8378,Okay,"Not worth the money, poor quality Bluetooth Speaker.",1,Yes,19,Negative
+227,Books,Biography,U8780,Terrible,Decent Biography for the price point.,2,No,36,Negative
+228,Electronics,Bluetooth Speaker,U8051,Okay,I use this Bluetooth Speaker every day and it’s fantastic.,4,Yes,46,Positive
+229,Home & Kitchen,Air Fryer,U6973,Great!,I use this Air Fryer every day and it’s fantastic.,2,No,27,Negative
+230,Beauty,Lipstick,U9747,Not good,"The Lipstick works okay, but could be better.",4,No,44,Positive
+231,Beauty,Hair Dryer,U8862,Loved it,"The Hair Dryer works okay, but could be better.",2,No,42,Negative
+232,Home & Kitchen,Vacuum Cleaner,U7834,Terrible,"The Vacuum Cleaner works okay, but could be better.",2,No,6,Negative
+233,Beauty,Shampoo,U1049,Okay,The Shampoo stopped working after a week.,3,No,23,Neutral
+234,Home & Kitchen,Vacuum Cleaner,U1178,Great!,The Vacuum Cleaner stopped working after a week.,3,Yes,43,Neutral
+235,Fashion,T-shirt,U8035,Terrible,Decent T-shirt for the price point.,1,Yes,16,Negative
+236,Fashion,Jacket,U5845,Terrible,Exceeded my expectations! Great Jacket.,2,No,22,Negative
+237,Books,Self-help Book,U3911,Okay,The Self-help Book stopped working after a week.,2,No,19,Negative
+238,Beauty,Lipstick,U9419,Great!,Exceeded my expectations! Great Lipstick.,3,No,20,Neutral
+239,Fashion,Jeans,U4239,Not good,Really disappointed with the Jeans.,3,No,9,Neutral
+240,Books,Biography,U9913,Not good,Exceeded my expectations! Great Biography.,3,Yes,12,Neutral
+241,Home & Kitchen,Blender,U1474,Great!,Exceeded my expectations! Great Blender.,5,No,10,Positive
+242,Electronics,Laptop,U8605,Terrible,Really disappointed with the Laptop.,5,No,14,Positive
+243,Home & Kitchen,Microwave Oven,U5345,Great!,"The Microwave Oven works okay, but could be better.",1,Yes,46,Negative
+244,Fashion,Jacket,U3995,Okay,Exceeded my expectations! Great Jacket.,2,Yes,35,Negative
+245,Fashion,Jeans,U4833,Terrible,I use this Jeans every day and it’s fantastic.,2,Yes,12,Negative
+246,Beauty,Hair Dryer,U3215,Okay,"Not worth the money, poor quality Hair Dryer.",2,No,5,Negative
+247,Books,Self-help Book,U4183,Not good,I use this Self-help Book every day and it’s fantastic.,5,No,22,Positive
+248,Fashion,T-shirt,U5592,Okay,I use this T-shirt every day and it’s fantastic.,2,Yes,3,Negative
+249,Home & Kitchen,Microwave Oven,U4297,Terrible,"The Microwave Oven is amazing, I love it!",1,Yes,41,Negative
+250,Fashion,T-shirt,U2046,Not good,"The T-shirt works okay, but could be better.",5,No,47,Positive
+251,Books,Self-help Book,U8422,Loved it,"Not worth the money, poor quality Self-help Book.",4,Yes,44,Positive
+252,Fashion,T-shirt,U4071,Loved it,"The T-shirt is amazing, I love it!",4,No,31,Positive
+253,Books,Biography,U3870,Loved it,"The Biography is amazing, I love it!",3,Yes,14,Neutral
+254,Books,Self-help Book,U6283,Terrible,The Self-help Book stopped working after a week.,4,Yes,47,Positive
+255,Books,Children's Story,U7434,Not good,Decent Children's Story for the price point.,2,Yes,12,Negative
+256,Electronics,Bluetooth Speaker,U8017,Loved it,Exceeded my expectations! Great Bluetooth Speaker.,4,Yes,28,Positive
+257,Electronics,Smartwatch,U4058,Terrible,I use this Smartwatch every day and it’s fantastic.,4,Yes,19,Positive
+258,Home & Kitchen,Air Fryer,U5647,Okay,The Air Fryer stopped working after a week.,5,No,36,Positive
+259,Beauty,Hair Dryer,U8936,Terrible,Really disappointed with the Hair Dryer.,3,No,16,Neutral
+260,Home & Kitchen,Microwave Oven,U4627,Great!,The Microwave Oven stopped working after a week.,3,Yes,15,Neutral
+261,Fashion,Jacket,U7770,Great!,Decent Jacket for the price point.,1,No,1,Negative
+262,Books,Cookbook,U9586,Loved it,Decent Cookbook for the price point.,3,No,43,Neutral
+263,Books,Self-help Book,U7010,Great!,"The Self-help Book is amazing, I love it!",1,Yes,21,Negative
+264,Books,Children's Story,U6089,Okay,The Children's Story stopped working after a week.,2,Yes,7,Negative
+265,Beauty,Perfume,U9353,Terrible,Really disappointed with the Perfume.,3,No,36,Neutral
+266,Home & Kitchen,Vacuum Cleaner,U6629,Okay,Decent Vacuum Cleaner for the price point.,3,No,25,Neutral
+267,Electronics,Smartphone,U9693,Okay,"Not worth the money, poor quality Smartphone.",4,No,48,Positive
+268,Beauty,Lipstick,U9608,Okay,"The Lipstick works okay, but could be better.",5,No,44,Positive
+269,Beauty,Perfume,U8043,Terrible,Really disappointed with the Perfume.,1,Yes,7,Negative
+270,Electronics,Laptop,U5624,Loved it,I use this Laptop every day and it’s fantastic.,1,Yes,11,Negative
+271,Home & Kitchen,Vacuum Cleaner,U9278,Okay,Really disappointed with the Vacuum Cleaner.,5,Yes,41,Positive
+272,Electronics,Smartphone,U5039,Okay,Really disappointed with the Smartphone.,1,No,36,Negative
+273,Electronics,Bluetooth Speaker,U4915,Great!,"The Bluetooth Speaker is amazing, I love it!",5,Yes,35,Positive
+274,Electronics,Bluetooth Speaker,U1510,Terrible,"The Bluetooth Speaker works okay, but could be better.",2,Yes,37,Negative
+275,Home & Kitchen,Microwave Oven,U7078,Terrible,I use this Microwave Oven every day and it’s fantastic.,5,No,50,Positive
+276,Fashion,T-shirt,U5094,Great!,The T-shirt stopped working after a week.,4,Yes,46,Positive
+277,Electronics,Laptop,U1841,Great!,"The Laptop is amazing, I love it!",1,No,50,Negative
+278,Fashion,Sneakers,U9975,Loved it,Decent Sneakers for the price point.,4,Yes,39,Positive
+279,Home & Kitchen,Vacuum Cleaner,U3480,Okay,Really disappointed with the Vacuum Cleaner.,3,No,35,Neutral
+280,Fashion,Jacket,U7468,Not good,Exceeded my expectations! Great Jacket.,3,No,36,Neutral
+281,Beauty,Lipstick,U5045,Okay,"The Lipstick works okay, but could be better.",4,No,47,Positive
+282,Beauty,Face Cream,U8082,Okay,Exceeded my expectations! Great Face Cream.,5,Yes,50,Positive
+283,Electronics,Smartwatch,U4192,Great!,"The Smartwatch works okay, but could be better.",1,Yes,39,Negative
+284,Home & Kitchen,Blender,U9014,Not good,"The Blender works okay, but could be better.",2,No,30,Negative
+285,Fashion,Jacket,U8248,Great!,"Not worth the money, poor quality Jacket.",1,No,41,Negative
+286,Beauty,Shampoo,U7150,Not good,"The Shampoo works okay, but could be better.",3,Yes,42,Neutral
+287,Beauty,Hair Dryer,U5613,Okay,Exceeded my expectations! Great Hair Dryer.,2,No,34,Negative
+288,Electronics,Wireless Headphones,U5807,Great!,Exceeded my expectations! Great Wireless Headphones.,4,Yes,44,Positive
+289,Home & Kitchen,Air Fryer,U7324,Not good,"The Air Fryer is amazing, I love it!",3,No,22,Neutral
+290,Home & Kitchen,Blender,U6537,Great!,Really disappointed with the Blender.,3,Yes,19,Neutral
+291,Fashion,Handbag,U2331,Loved it,Exceeded my expectations! Great Handbag.,1,Yes,43,Negative
+292,Electronics,Smartwatch,U3224,Okay,"The Smartwatch works okay, but could be better.",2,No,10,Negative
+293,Fashion,Handbag,U2560,Not good,I use this Handbag every day and it’s fantastic.,4,Yes,12,Positive
+294,Electronics,Smartphone,U4338,Not good,Decent Smartphone for the price point.,5,No,0,Positive
+295,Fashion,Jeans,U5171,Terrible,The Jeans stopped working after a week.,1,No,46,Negative
+296,Fashion,T-shirt,U6627,Loved it,"Not worth the money, poor quality T-shirt.",1,No,28,Negative
+297,Home & Kitchen,Microwave Oven,U8905,Okay,The Microwave Oven stopped working after a week.,5,No,50,Positive
+298,Beauty,Perfume,U4298,Great!,Really disappointed with the Perfume.,1,No,46,Negative
+299,Home & Kitchen,Vacuum Cleaner,U9711,Great!,I use this Vacuum Cleaner every day and it’s fantastic.,2,Yes,10,Negative
+300,Beauty,Face Cream,U7026,Okay,Really disappointed with the Face Cream.,4,Yes,46,Positive
+301,Fashion,Jeans,U4089,Okay,"The Jeans works okay, but could be better.",1,No,6,Negative
+302,Fashion,Sneakers,U7024,Great!,The Sneakers stopped working after a week.,5,No,38,Positive
+303,Books,Self-help Book,U5330,Great!,Really disappointed with the Self-help Book.,3,Yes,28,Neutral
+304,Beauty,Hair Dryer,U8308,Great!,"The Hair Dryer is amazing, I love it!",2,Yes,2,Negative
+305,Fashion,Handbag,U5850,Terrible,I use this Handbag every day and it’s fantastic.,5,No,37,Positive
+306,Electronics,Smartwatch,U6557,Not good,Exceeded my expectations! Great Smartwatch.,3,No,11,Neutral
+307,Fashion,Jeans,U8578,Not good,"Not worth the money, poor quality Jeans.",4,No,36,Positive
+308,Beauty,Hair Dryer,U8134,Great!,Decent Hair Dryer for the price point.,3,Yes,24,Neutral
+309,Beauty,Lipstick,U3100,Terrible,Really disappointed with the Lipstick.,2,No,17,Negative
+310,Electronics,Smartwatch,U5001,Terrible,I use this Smartwatch every day and it’s fantastic.,4,No,39,Positive
+311,Books,Fiction Novel,U8564,Great!,I use this Fiction Novel every day and it’s fantastic.,2,Yes,47,Negative
+312,Books,Biography,U7043,Okay,"The Biography works okay, but could be better.",3,No,1,Neutral
+313,Fashion,Handbag,U3240,Not good,I use this Handbag every day and it’s fantastic.,2,No,19,Negative
+314,Books,Fiction Novel,U2197,Loved it,"Not worth the money, poor quality Fiction Novel.",3,Yes,7,Neutral
+315,Books,Children's Story,U5359,Loved it,Decent Children's Story for the price point.,2,Yes,47,Negative
+316,Home & Kitchen,Microwave Oven,U9228,Loved it,Decent Microwave Oven for the price point.,2,Yes,11,Negative
+317,Home & Kitchen,Blender,U7839,Okay,Exceeded my expectations! Great Blender.,4,Yes,10,Positive
+318,Beauty,Shampoo,U3632,Loved it,Exceeded my expectations! Great Shampoo.,2,Yes,42,Negative
+319,Home & Kitchen,Microwave Oven,U2406,Terrible,Really disappointed with the Microwave Oven.,2,No,10,Negative
+320,Home & Kitchen,Air Fryer,U8610,Loved it,Exceeded my expectations! Great Air Fryer.,1,No,16,Negative
+321,Fashion,Jacket,U9697,Not good,"The Jacket works okay, but could be better.",1,No,33,Negative
+322,Electronics,Wireless Headphones,U3365,Okay,Decent Wireless Headphones for the price point.,3,Yes,22,Neutral
+323,Electronics,Smartwatch,U8509,Terrible,I use this Smartwatch every day and it’s fantastic.,4,No,11,Positive
+324,Beauty,Face Cream,U1994,Great!,"The Face Cream works okay, but could be better.",2,No,7,Negative
+325,Fashion,Handbag,U3748,Loved it,Decent Handbag for the price point.,1,Yes,17,Negative
+326,Fashion,Jacket,U1235,Okay,Decent Jacket for the price point.,3,No,18,Neutral
+327,Beauty,Shampoo,U3066,Great!,"Not worth the money, poor quality Shampoo.",3,No,17,Neutral
+328,Home & Kitchen,Coffee Maker,U4868,Not good,"Not worth the money, poor quality Coffee Maker.",1,No,41,Negative
+329,Beauty,Face Cream,U6625,Great!,"The Face Cream is amazing, I love it!",5,Yes,0,Positive
+330,Fashion,T-shirt,U8516,Okay,Decent T-shirt for the price point.,2,No,47,Negative
+331,Books,Biography,U6192,Loved it,Decent Biography for the price point.,2,Yes,24,Negative
+332,Electronics,Bluetooth Speaker,U2164,Loved it,"The Bluetooth Speaker works okay, but could be better.",2,No,34,Negative
+333,Electronics,Laptop,U8939,Loved it,"The Laptop is amazing, I love it!",5,Yes,16,Positive
+334,Home & Kitchen,Blender,U3590,Great!,I use this Blender every day and it’s fantastic.,4,No,17,Positive
+335,Electronics,Smartphone,U9876,Loved it,Decent Smartphone for the price point.,1,No,32,Negative
+336,Books,Self-help Book,U3760,Loved it,"The Self-help Book is amazing, I love it!",3,Yes,22,Neutral
+337,Electronics,Smartphone,U1153,Okay,Decent Smartphone for the price point.,1,Yes,48,Negative
+338,Books,Children's Story,U1309,Terrible,I use this Children's Story every day and it’s fantastic.,5,No,2,Positive
+339,Electronics,Smartwatch,U5853,Loved it,Decent Smartwatch for the price point.,4,No,23,Positive
+340,Beauty,Hair Dryer,U6934,Not good,I use this Hair Dryer every day and it’s fantastic.,3,Yes,12,Neutral
+341,Books,Self-help Book,U3779,Loved it,Really disappointed with the Self-help Book.,1,No,41,Negative
+342,Fashion,Sneakers,U3695,Great!,The Sneakers stopped working after a week.,3,Yes,7,Neutral
+343,Home & Kitchen,Vacuum Cleaner,U8683,Terrible,"The Vacuum Cleaner is amazing, I love it!",1,Yes,42,Negative
+344,Books,Biography,U9308,Loved it,"Not worth the money, poor quality Biography.",2,No,2,Negative
+345,Books,Cookbook,U1862,Not good,"The Cookbook works okay, but could be better.",3,No,18,Neutral
+346,Electronics,Bluetooth Speaker,U7102,Terrible,"The Bluetooth Speaker works okay, but could be better.",5,No,20,Positive
+347,Fashion,Jeans,U4670,Loved it,"The Jeans is amazing, I love it!",1,Yes,8,Negative
+348,Electronics,Wireless Headphones,U9342,Loved it,I use this Wireless Headphones every day and it’s fantastic.,3,No,35,Neutral
+349,Books,Biography,U2937,Great!,Decent Biography for the price point.,1,No,26,Negative
+350,Fashion,T-shirt,U7797,Not good,I use this T-shirt every day and it’s fantastic.,2,No,3,Negative
+351,Electronics,Laptop,U7133,Loved it,Decent Laptop for the price point.,2,Yes,2,Negative
+352,Home & Kitchen,Microwave Oven,U2920,Okay,Exceeded my expectations! Great Microwave Oven.,3,No,46,Neutral
+353,Beauty,Perfume,U9782,Not good,The Perfume stopped working after a week.,1,Yes,46,Negative
+354,Fashion,Jeans,U3986,Loved it,I use this Jeans every day and it’s fantastic.,2,Yes,10,Negative
+355,Electronics,Wireless Headphones,U4644,Not good,"The Wireless Headphones works okay, but could be better.",3,Yes,44,Neutral
+356,Electronics,Wireless Headphones,U9841,Not good,Exceeded my expectations! Great Wireless Headphones.,5,Yes,28,Positive
+357,Books,Fiction Novel,U3613,Loved it,"The Fiction Novel works okay, but could be better.",2,No,37,Negative
+358,Home & Kitchen,Vacuum Cleaner,U1937,Terrible,I use this Vacuum Cleaner every day and it’s fantastic.,3,Yes,23,Neutral
+359,Books,Biography,U1755,Loved it,"Not worth the money, poor quality Biography.",3,No,26,Neutral
+360,Electronics,Laptop,U6291,Okay,Decent Laptop for the price point.,5,Yes,25,Positive
+361,Beauty,Lipstick,U5633,Great!,Really disappointed with the Lipstick.,4,No,15,Positive
+362,Electronics,Laptop,U9220,Terrible,"The Laptop is amazing, I love it!",3,Yes,19,Neutral
+363,Fashion,Handbag,U3583,Not good,The Handbag stopped working after a week.,3,Yes,19,Neutral
+364,Home & Kitchen,Air Fryer,U3468,Loved it,Decent Air Fryer for the price point.,3,No,46,Neutral
+365,Fashion,Jeans,U9711,Terrible,Decent Jeans for the price point.,2,No,29,Negative
+366,Books,Cookbook,U8548,Loved it,The Cookbook stopped working after a week.,1,No,38,Negative
+367,Fashion,Sneakers,U4951,Not good,Really disappointed with the Sneakers.,2,Yes,29,Negative
+368,Fashion,Sneakers,U9265,Not good,Exceeded my expectations! Great Sneakers.,5,Yes,23,Positive
+369,Books,Self-help Book,U7494,Terrible,I use this Self-help Book every day and it’s fantastic.,2,No,2,Negative
+370,Beauty,Hair Dryer,U7381,Not good,Decent Hair Dryer for the price point.,1,Yes,25,Negative
+371,Beauty,Shampoo,U8595,Loved it,I use this Shampoo every day and it’s fantastic.,5,Yes,0,Positive
+372,Beauty,Perfume,U8689,Loved it,"The Perfume is amazing, I love it!",1,No,17,Negative
+373,Fashion,Handbag,U7844,Terrible,The Handbag stopped working after a week.,4,Yes,47,Positive
+374,Fashion,Jacket,U2523,Okay,"The Jacket works okay, but could be better.",3,Yes,20,Neutral
+375,Fashion,Handbag,U7496,Great!,I use this Handbag every day and it’s fantastic.,1,Yes,19,Negative
+376,Fashion,Sneakers,U5580,Not good,The Sneakers stopped working after a week.,5,No,20,Positive
+377,Books,Fiction Novel,U5076,Loved it,"Not worth the money, poor quality Fiction Novel.",1,Yes,4,Negative
+378,Electronics,Smartphone,U9671,Great!,I use this Smartphone every day and it’s fantastic.,5,Yes,6,Positive
+379,Books,Children's Story,U6108,Okay,Decent Children's Story for the price point.,4,No,36,Positive
+380,Beauty,Lipstick,U1911,Terrible,"Not worth the money, poor quality Lipstick.",4,Yes,31,Positive
+381,Fashion,Handbag,U4350,Great!,Really disappointed with the Handbag.,3,Yes,12,Neutral
+382,Electronics,Wireless Headphones,U6494,Terrible,The Wireless Headphones stopped working after a week.,2,Yes,5,Negative
+383,Electronics,Bluetooth Speaker,U9244,Loved it,The Bluetooth Speaker stopped working after a week.,2,Yes,20,Negative
+384,Books,Self-help Book,U3800,Terrible,I use this Self-help Book every day and it’s fantastic.,4,No,41,Positive
+385,Books,Fiction Novel,U6048,Great!,"Not worth the money, poor quality Fiction Novel.",2,No,5,Negative
+386,Beauty,Perfume,U9823,Loved it,"The Perfume is amazing, I love it!",1,Yes,45,Negative
+387,Home & Kitchen,Blender,U7811,Okay,Decent Blender for the price point.,1,Yes,23,Negative
+388,Electronics,Smartwatch,U4161,Okay,The Smartwatch stopped working after a week.,1,No,17,Negative
+389,Beauty,Shampoo,U4810,Great!,"The Shampoo is amazing, I love it!",1,Yes,47,Negative
+390,Home & Kitchen,Air Fryer,U8836,Great!,"The Air Fryer works okay, but could be better.",5,No,0,Positive
+391,Electronics,Smartphone,U8565,Not good,Decent Smartphone for the price point.,1,No,1,Negative
+392,Fashion,Sneakers,U2099,Terrible,"The Sneakers works okay, but could be better.",4,No,19,Positive
+393,Beauty,Perfume,U5828,Not good,The Perfume stopped working after a week.,4,Yes,11,Positive
+394,Fashion,T-shirt,U1085,Okay,Decent T-shirt for the price point.,4,Yes,1,Positive
+395,Home & Kitchen,Coffee Maker,U9603,Loved it,Exceeded my expectations! Great Coffee Maker.,2,No,16,Negative
+396,Beauty,Face Cream,U1223,Not good,The Face Cream stopped working after a week.,4,Yes,39,Positive
+397,Beauty,Shampoo,U9871,Okay,"Not worth the money, poor quality Shampoo.",5,Yes,49,Positive
+398,Electronics,Smartwatch,U8272,Not good,"The Smartwatch is amazing, I love it!",4,Yes,46,Positive
+399,Books,Cookbook,U9221,Okay,The Cookbook stopped working after a week.,5,No,1,Positive
+400,Books,Fiction Novel,U8151,Not good,I use this Fiction Novel every day and it’s fantastic.,3,Yes,33,Neutral
+401,Beauty,Perfume,U7138,Not good,"Not worth the money, poor quality Perfume.",4,No,16,Positive
+402,Home & Kitchen,Blender,U1426,Okay,"The Blender is amazing, I love it!",3,Yes,35,Neutral
+403,Home & Kitchen,Blender,U4921,Not good,"The Blender works okay, but could be better.",1,Yes,48,Negative
+404,Books,Fiction Novel,U8005,Not good,"The Fiction Novel is amazing, I love it!",1,Yes,20,Negative
+405,Fashion,Handbag,U2482,Great!,I use this Handbag every day and it’s fantastic.,2,No,42,Negative
+406,Home & Kitchen,Coffee Maker,U4133,Okay,Decent Coffee Maker for the price point.,4,Yes,25,Positive
+407,Books,Fiction Novel,U6776,Loved it,"The Fiction Novel is amazing, I love it!",5,Yes,48,Positive
+408,Fashion,Jeans,U9532,Great!,"The Jeans is amazing, I love it!",2,No,39,Negative
+409,Books,Cookbook,U5566,Not good,"The Cookbook is amazing, I love it!",2,No,40,Negative
+410,Beauty,Perfume,U6490,Loved it,"Not worth the money, poor quality Perfume.",1,Yes,8,Negative
+411,Home & Kitchen,Microwave Oven,U7883,Not good,Exceeded my expectations! Great Microwave Oven.,2,No,6,Negative
+412,Fashion,Jeans,U4720,Okay,Really disappointed with the Jeans.,1,Yes,22,Negative
+413,Books,Cookbook,U7723,Great!,"The Cookbook works okay, but could be better.",4,Yes,0,Positive
+414,Home & Kitchen,Blender,U7623,Not good,"The Blender works okay, but could be better.",3,No,3,Neutral
+415,Home & Kitchen,Vacuum Cleaner,U8366,Not good,Exceeded my expectations! Great Vacuum Cleaner.,1,No,40,Negative
+416,Beauty,Shampoo,U5144,Not good,Exceeded my expectations! Great Shampoo.,1,Yes,34,Negative
+417,Beauty,Hair Dryer,U9120,Okay,"The Hair Dryer works okay, but could be better.",5,Yes,23,Positive
+418,Beauty,Face Cream,U7642,Terrible,"The Face Cream works okay, but could be better.",4,No,11,Positive
+419,Home & Kitchen,Blender,U1340,Not good,Decent Blender for the price point.,5,No,20,Positive
+420,Electronics,Bluetooth Speaker,U5857,Not good,I use this Bluetooth Speaker every day and it’s fantastic.,3,Yes,12,Neutral
+421,Home & Kitchen,Coffee Maker,U8762,Great!,"The Coffee Maker is amazing, I love it!",2,Yes,35,Negative
+422,Beauty,Shampoo,U6562,Not good,Really disappointed with the Shampoo.,5,Yes,49,Positive
+423,Home & Kitchen,Blender,U6095,Loved it,The Blender stopped working after a week.,2,No,17,Negative
+424,Home & Kitchen,Coffee Maker,U6856,Not good,The Coffee Maker stopped working after a week.,2,Yes,24,Negative
+425,Fashion,Handbag,U8152,Okay,Decent Handbag for the price point.,2,Yes,9,Negative
+426,Home & Kitchen,Blender,U3602,Not good,"The Blender works okay, but could be better.",2,Yes,1,Negative
+427,Fashion,T-shirt,U3037,Loved it,"The T-shirt is amazing, I love it!",5,Yes,41,Positive
+428,Fashion,Handbag,U1361,Terrible,"The Handbag works okay, but could be better.",4,Yes,18,Positive
+429,Fashion,T-shirt,U9285,Great!,"The T-shirt works okay, but could be better.",4,Yes,42,Positive
+430,Beauty,Perfume,U7034,Great!,Really disappointed with the Perfume.,5,Yes,15,Positive
+431,Beauty,Hair Dryer,U4353,Terrible,Decent Hair Dryer for the price point.,5,Yes,37,Positive
+432,Fashion,Sneakers,U3252,Terrible,Decent Sneakers for the price point.,4,No,13,Positive
+433,Electronics,Smartwatch,U8009,Terrible,I use this Smartwatch every day and it’s fantastic.,5,Yes,17,Positive
+434,Electronics,Laptop,U8447,Okay,"Not worth the money, poor quality Laptop.",4,Yes,48,Positive
+435,Books,Fiction Novel,U6081,Terrible,"The Fiction Novel works okay, but could be better.",5,No,22,Positive
+436,Books,Self-help Book,U1143,Terrible,Really disappointed with the Self-help Book.,3,Yes,0,Neutral
+437,Home & Kitchen,Vacuum Cleaner,U3551,Great!,"The Vacuum Cleaner works okay, but could be better.",4,Yes,46,Positive
+438,Fashion,T-shirt,U7337,Terrible,Really disappointed with the T-shirt.,3,Yes,19,Neutral
+439,Books,Cookbook,U5818,Terrible,"Not worth the money, poor quality Cookbook.",4,Yes,14,Positive
+440,Home & Kitchen,Blender,U1749,Loved it,I use this Blender every day and it’s fantastic.,5,No,41,Positive
+441,Beauty,Lipstick,U9431,Okay,"Not worth the money, poor quality Lipstick.",5,No,49,Positive
+442,Home & Kitchen,Microwave Oven,U1458,Terrible,"The Microwave Oven works okay, but could be better.",2,Yes,33,Negative
+443,Beauty,Shampoo,U8921,Terrible,Exceeded my expectations! Great Shampoo.,3,No,2,Neutral
+444,Books,Cookbook,U9685,Not good,"The Cookbook works okay, but could be better.",3,Yes,46,Neutral
+445,Books,Self-help Book,U2066,Terrible,Decent Self-help Book for the price point.,1,Yes,2,Negative
+446,Home & Kitchen,Microwave Oven,U3525,Loved it,Really disappointed with the Microwave Oven.,5,No,0,Positive
+447,Books,Biography,U2314,Terrible,Really disappointed with the Biography.,5,Yes,26,Positive
+448,Electronics,Bluetooth Speaker,U3817,Okay,"The Bluetooth Speaker works okay, but could be better.",4,No,29,Positive
+449,Fashion,T-shirt,U1666,Loved it,The T-shirt stopped working after a week.,2,No,3,Negative
+450,Books,Cookbook,U4201,Okay,The Cookbook stopped working after a week.,4,Yes,49,Positive
+451,Home & Kitchen,Vacuum Cleaner,U7473,Loved it,Really disappointed with the Vacuum Cleaner.,2,No,2,Negative
+452,Beauty,Shampoo,U7914,Great!,Decent Shampoo for the price point.,5,Yes,14,Positive
+453,Books,Self-help Book,U8908,Okay,"Not worth the money, poor quality Self-help Book.",3,No,46,Neutral
+454,Beauty,Lipstick,U3763,Great!,Exceeded my expectations! Great Lipstick.,2,Yes,37,Negative
+455,Home & Kitchen,Vacuum Cleaner,U4290,Loved it,"The Vacuum Cleaner works okay, but could be better.",3,Yes,42,Neutral
+456,Books,Biography,U9370,Loved it,"Not worth the money, poor quality Biography.",4,No,48,Positive
+457,Home & Kitchen,Coffee Maker,U3154,Loved it,"Not worth the money, poor quality Coffee Maker.",5,Yes,11,Positive
+458,Electronics,Smartphone,U7647,Terrible,The Smartphone stopped working after a week.,1,Yes,39,Negative
+459,Books,Fiction Novel,U3104,Not good,Decent Fiction Novel for the price point.,5,No,44,Positive
+460,Books,Biography,U3815,Okay,"The Biography is amazing, I love it!",1,Yes,15,Negative
+461,Beauty,Hair Dryer,U3071,Okay,Decent Hair Dryer for the price point.,4,No,30,Positive
+462,Beauty,Shampoo,U2236,Terrible,Decent Shampoo for the price point.,3,Yes,39,Neutral
+463,Home & Kitchen,Coffee Maker,U4478,Okay,Decent Coffee Maker for the price point.,5,No,18,Positive
+464,Electronics,Wireless Headphones,U6619,Great!,"Not worth the money, poor quality Wireless Headphones.",1,No,22,Negative
+465,Beauty,Face Cream,U4983,Loved it,Really disappointed with the Face Cream.,2,No,14,Negative
+466,Books,Fiction Novel,U5171,Okay,Decent Fiction Novel for the price point.,1,No,18,Negative
+467,Electronics,Smartphone,U7417,Great!,"Not worth the money, poor quality Smartphone.",3,No,50,Neutral
+468,Home & Kitchen,Vacuum Cleaner,U9462,Loved it,Decent Vacuum Cleaner for the price point.,5,Yes,2,Positive
+469,Electronics,Wireless Headphones,U4321,Great!,"The Wireless Headphones works okay, but could be better.",1,No,9,Negative
+470,Books,Cookbook,U2941,Okay,Exceeded my expectations! Great Cookbook.,3,Yes,6,Neutral
+471,Books,Biography,U2564,Terrible,I use this Biography every day and it’s fantastic.,2,Yes,13,Negative
+472,Beauty,Perfume,U5749,Loved it,I use this Perfume every day and it’s fantastic.,5,Yes,21,Positive
+473,Books,Biography,U4349,Terrible,Decent Biography for the price point.,1,No,41,Negative
+474,Books,Cookbook,U1434,Terrible,Really disappointed with the Cookbook.,5,No,21,Positive
+475,Home & Kitchen,Blender,U1241,Loved it,Exceeded my expectations! Great Blender.,2,No,19,Negative
+476,Books,Cookbook,U7368,Great!,Really disappointed with the Cookbook.,3,Yes,3,Neutral
+477,Books,Biography,U5783,Not good,Exceeded my expectations! Great Biography.,5,Yes,12,Positive
+478,Home & Kitchen,Air Fryer,U2647,Okay,"The Air Fryer is amazing, I love it!",1,No,49,Negative
+479,Home & Kitchen,Microwave Oven,U3876,Loved it,I use this Microwave Oven every day and it’s fantastic.,2,No,48,Negative
+480,Home & Kitchen,Vacuum Cleaner,U1737,Not good,"The Vacuum Cleaner is amazing, I love it!",1,No,43,Negative
+481,Home & Kitchen,Coffee Maker,U3409,Loved it,"Not worth the money, poor quality Coffee Maker.",2,Yes,35,Negative
+482,Home & Kitchen,Coffee Maker,U9636,Loved it,"The Coffee Maker is amazing, I love it!",2,No,22,Negative
+483,Electronics,Laptop,U2161,Great!,"The Laptop works okay, but could be better.",2,Yes,20,Negative
+484,Fashion,T-shirt,U4012,Okay,Exceeded my expectations! Great T-shirt.,4,No,15,Positive
+485,Home & Kitchen,Microwave Oven,U5728,Loved it,Decent Microwave Oven for the price point.,4,Yes,26,Positive
+486,Books,Self-help Book,U3142,Terrible,Really disappointed with the Self-help Book.,4,Yes,30,Positive
+487,Books,Cookbook,U1801,Not good,"The Cookbook is amazing, I love it!",3,Yes,46,Neutral
+488,Home & Kitchen,Coffee Maker,U2315,Okay,"The Coffee Maker works okay, but could be better.",3,Yes,5,Neutral
+489,Beauty,Perfume,U2083,Loved it,Decent Perfume for the price point.,2,No,48,Negative
+490,Fashion,T-shirt,U4573,Great!,The T-shirt stopped working after a week.,5,Yes,13,Positive
+491,Home & Kitchen,Blender,U8677,Loved it,I use this Blender every day and it’s fantastic.,5,No,47,Positive
+492,Fashion,Jeans,U8948,Terrible,Exceeded my expectations! Great Jeans.,5,No,26,Positive
+493,Books,Cookbook,U2853,Loved it,"The Cookbook is amazing, I love it!",4,No,39,Positive
+494,Books,Biography,U1570,Great!,"Not worth the money, poor quality Biography.",1,No,19,Negative
+495,Home & Kitchen,Blender,U4757,Great!,Really disappointed with the Blender.,1,No,14,Negative
+496,Electronics,Smartwatch,U3033,Okay,"Not worth the money, poor quality Smartwatch.",1,Yes,37,Negative
+497,Electronics,Smartwatch,U3421,Okay,Decent Smartwatch for the price point.,1,Yes,36,Negative
+498,Home & Kitchen,Vacuum Cleaner,U5257,Okay,Decent Vacuum Cleaner for the price point.,3,No,13,Neutral
+499,Beauty,Shampoo,U6057,Not good,"The Shampoo is amazing, I love it!",4,Yes,40,Positive
+500,Home & Kitchen,Microwave Oven,U6276,Great!,"The Microwave Oven is amazing, I love it!",4,No,41,Positive
+501,Books,Self-help Book,U2903,Okay,Exceeded my expectations! Great Self-help Book.,4,No,19,Positive
+502,Home & Kitchen,Air Fryer,U4195,Great!,Decent Air Fryer for the price point.,1,No,41,Negative
+503,Fashion,Sneakers,U8046,Okay,"Not worth the money, poor quality Sneakers.",4,No,39,Positive
+504,Beauty,Face Cream,U2202,Okay,Really disappointed with the Face Cream.,1,No,43,Negative
+505,Beauty,Lipstick,U6638,Terrible,Decent Lipstick for the price point.,5,No,19,Positive
+506,Books,Cookbook,U5504,Okay,"The Cookbook is amazing, I love it!",1,No,45,Negative
+507,Electronics,Bluetooth Speaker,U7372,Not good,I use this Bluetooth Speaker every day and it’s fantastic.,5,No,16,Positive
+508,Electronics,Smartwatch,U9579,Terrible,Really disappointed with the Smartwatch.,1,Yes,15,Negative
+509,Electronics,Laptop,U9626,Loved it,I use this Laptop every day and it’s fantastic.,1,Yes,9,Negative
+510,Home & Kitchen,Coffee Maker,U9641,Terrible,Really disappointed with the Coffee Maker.,5,No,20,Positive
+511,Electronics,Smartphone,U2005,Not good,"The Smartphone is amazing, I love it!",2,Yes,37,Negative
+512,Electronics,Smartphone,U1761,Great!,"The Smartphone works okay, but could be better.",5,No,6,Positive
+513,Electronics,Bluetooth Speaker,U3761,Okay,Really disappointed with the Bluetooth Speaker.,4,No,26,Positive
+514,Beauty,Perfume,U9328,Great!,"The Perfume is amazing, I love it!",4,No,44,Positive
+515,Fashion,Sneakers,U1508,Not good,The Sneakers stopped working after a week.,5,Yes,15,Positive
+516,Fashion,Jacket,U9837,Loved it,The Jacket stopped working after a week.,5,Yes,44,Positive
+517,Home & Kitchen,Blender,U9169,Loved it,Really disappointed with the Blender.,4,Yes,28,Positive
+518,Home & Kitchen,Air Fryer,U3424,Not good,"The Air Fryer works okay, but could be better.",4,No,46,Positive
+519,Beauty,Hair Dryer,U9335,Loved it,"Not worth the money, poor quality Hair Dryer.",4,Yes,12,Positive
+520,Electronics,Laptop,U4456,Great!,Exceeded my expectations! Great Laptop.,5,Yes,18,Positive
+521,Books,Children's Story,U9346,Not good,"The Children's Story works okay, but could be better.",5,Yes,26,Positive
+522,Fashion,Sneakers,U4466,Loved it,The Sneakers stopped working after a week.,5,No,3,Positive
+523,Fashion,T-shirt,U2880,Okay,"The T-shirt works okay, but could be better.",3,Yes,26,Neutral
+524,Beauty,Lipstick,U9358,Okay,The Lipstick stopped working after a week.,2,No,26,Negative
+525,Electronics,Laptop,U2831,Loved it,"Not worth the money, poor quality Laptop.",4,No,35,Positive
+526,Electronics,Wireless Headphones,U4040,Okay,I use this Wireless Headphones every day and it’s fantastic.,4,No,24,Positive
+527,Beauty,Face Cream,U4401,Loved it,Decent Face Cream for the price point.,5,Yes,29,Positive
+528,Fashion,Jeans,U9374,Terrible,The Jeans stopped working after a week.,3,Yes,29,Neutral
+529,Electronics,Wireless Headphones,U2932,Not good,Decent Wireless Headphones for the price point.,5,No,23,Positive
+530,Home & Kitchen,Vacuum Cleaner,U2100,Not good,I use this Vacuum Cleaner every day and it’s fantastic.,2,Yes,1,Negative
+531,Books,Children's Story,U4742,Great!,Exceeded my expectations! Great Children's Story.,3,Yes,17,Neutral
+532,Home & Kitchen,Air Fryer,U4157,Loved it,"The Air Fryer works okay, but could be better.",1,Yes,26,Negative
+533,Electronics,Wireless Headphones,U1128,Great!,"The Wireless Headphones is amazing, I love it!",1,No,44,Negative
+534,Home & Kitchen,Microwave Oven,U1989,Loved it,Really disappointed with the Microwave Oven.,5,Yes,50,Positive
+535,Beauty,Face Cream,U7710,Not good,"The Face Cream is amazing, I love it!",5,Yes,11,Positive
+536,Beauty,Perfume,U5159,Terrible,The Perfume stopped working after a week.,3,No,25,Neutral
+537,Electronics,Bluetooth Speaker,U3163,Great!,The Bluetooth Speaker stopped working after a week.,2,Yes,47,Negative
+538,Home & Kitchen,Coffee Maker,U7051,Not good,"The Coffee Maker is amazing, I love it!",2,Yes,43,Negative
+539,Books,Cookbook,U4445,Okay,The Cookbook stopped working after a week.,1,No,25,Negative
+540,Fashion,Sneakers,U4081,Okay,I use this Sneakers every day and it’s fantastic.,3,No,0,Neutral
+541,Fashion,T-shirt,U7884,Not good,Decent T-shirt for the price point.,2,No,23,Negative
+542,Home & Kitchen,Coffee Maker,U2416,Great!,Decent Coffee Maker for the price point.,2,Yes,46,Negative
+543,Home & Kitchen,Microwave Oven,U2829,Great!,I use this Microwave Oven every day and it’s fantastic.,4,No,14,Positive
+544,Books,Fiction Novel,U9113,Not good,Really disappointed with the Fiction Novel.,2,No,5,Negative
+545,Fashion,Jeans,U6533,Not good,"The Jeans works okay, but could be better.",3,No,4,Neutral
+546,Books,Biography,U3567,Okay,Exceeded my expectations! Great Biography.,1,Yes,9,Negative
+547,Books,Children's Story,U7301,Great!,Exceeded my expectations! Great Children's Story.,4,No,19,Positive
+548,Books,Fiction Novel,U2914,Great!,I use this Fiction Novel every day and it’s fantastic.,4,No,20,Positive
+549,Home & Kitchen,Microwave Oven,U8081,Great!,"Not worth the money, poor quality Microwave Oven.",5,No,50,Positive
+550,Beauty,Face Cream,U5543,Loved it,"The Face Cream is amazing, I love it!",3,Yes,12,Neutral
+551,Home & Kitchen,Vacuum Cleaner,U5711,Loved it,The Vacuum Cleaner stopped working after a week.,2,Yes,4,Negative
+552,Home & Kitchen,Vacuum Cleaner,U5637,Great!,Really disappointed with the Vacuum Cleaner.,2,Yes,3,Negative
+553,Books,Biography,U6763,Great!,"The Biography is amazing, I love it!",1,No,24,Negative
+554,Electronics,Wireless Headphones,U1666,Okay,The Wireless Headphones stopped working after a week.,4,No,6,Positive
+555,Beauty,Hair Dryer,U2339,Great!,"The Hair Dryer works okay, but could be better.",1,Yes,4,Negative
+556,Home & Kitchen,Vacuum Cleaner,U1515,Great!,"The Vacuum Cleaner works okay, but could be better.",5,Yes,2,Positive
+557,Beauty,Perfume,U5269,Okay,I use this Perfume every day and it’s fantastic.,1,No,8,Negative
+558,Fashion,Handbag,U9685,Terrible,"The Handbag is amazing, I love it!",2,No,4,Negative
+559,Books,Fiction Novel,U3376,Okay,"Not worth the money, poor quality Fiction Novel.",5,No,9,Positive
+560,Fashion,Handbag,U7250,Okay,Decent Handbag for the price point.,5,No,31,Positive
+561,Electronics,Laptop,U6854,Not good,The Laptop stopped working after a week.,5,No,12,Positive
+562,Electronics,Bluetooth Speaker,U9433,Great!,Exceeded my expectations! Great Bluetooth Speaker.,5,No,35,Positive
+563,Books,Children's Story,U8310,Great!,Really disappointed with the Children's Story.,5,No,16,Positive
+564,Fashion,Handbag,U6631,Terrible,Really disappointed with the Handbag.,2,No,32,Negative
+565,Beauty,Lipstick,U1766,Terrible,"The Lipstick works okay, but could be better.",3,No,42,Neutral
+566,Books,Biography,U3787,Okay,Exceeded my expectations! Great Biography.,1,Yes,36,Negative
+567,Beauty,Shampoo,U9556,Great!,The Shampoo stopped working after a week.,2,Yes,32,Negative
+568,Home & Kitchen,Vacuum Cleaner,U8355,Loved it,I use this Vacuum Cleaner every day and it’s fantastic.,4,No,1,Positive
+569,Fashion,Jacket,U8811,Not good,"The Jacket works okay, but could be better.",4,No,45,Positive
+570,Electronics,Bluetooth Speaker,U8330,Okay,Decent Bluetooth Speaker for the price point.,2,No,35,Negative
+571,Fashion,Handbag,U1841,Loved it,The Handbag stopped working after a week.,3,No,5,Neutral
+572,Electronics,Wireless Headphones,U8703,Okay,The Wireless Headphones stopped working after a week.,3,No,48,Neutral
+573,Books,Children's Story,U4327,Great!,"The Children's Story is amazing, I love it!",3,No,14,Neutral
+574,Home & Kitchen,Blender,U7457,Loved it,Exceeded my expectations! Great Blender.,2,Yes,31,Negative
+575,Electronics,Smartphone,U2854,Terrible,The Smartphone stopped working after a week.,1,Yes,47,Negative
+576,Home & Kitchen,Coffee Maker,U8507,Terrible,"The Coffee Maker is amazing, I love it!",3,Yes,14,Neutral
+577,Home & Kitchen,Blender,U4535,Great!,Exceeded my expectations! Great Blender.,5,Yes,23,Positive
+578,Books,Biography,U6238,Great!,"The Biography works okay, but could be better.",1,Yes,39,Negative
+579,Home & Kitchen,Blender,U1473,Great!,Exceeded my expectations! Great Blender.,3,No,7,Neutral
+580,Home & Kitchen,Microwave Oven,U1501,Not good,"Not worth the money, poor quality Microwave Oven.",1,Yes,4,Negative
+581,Beauty,Face Cream,U5344,Not good,The Face Cream stopped working after a week.,1,No,27,Negative
+582,Electronics,Wireless Headphones,U4970,Not good,"Not worth the money, poor quality Wireless Headphones.",5,No,4,Positive
+583,Fashion,Jacket,U5822,Loved it,The Jacket stopped working after a week.,2,No,30,Negative
+584,Books,Self-help Book,U4879,Terrible,Really disappointed with the Self-help Book.,2,No,34,Negative
+585,Fashion,Jacket,U3366,Not good,"The Jacket is amazing, I love it!",4,Yes,46,Positive
+586,Electronics,Smartwatch,U5991,Okay,"The Smartwatch is amazing, I love it!",3,No,9,Neutral
+587,Fashion,Jacket,U2368,Not good,Decent Jacket for the price point.,4,No,0,Positive
+588,Home & Kitchen,Air Fryer,U5649,Loved it,"The Air Fryer is amazing, I love it!",4,No,26,Positive
+589,Electronics,Wireless Headphones,U6990,Great!,The Wireless Headphones stopped working after a week.,1,No,46,Negative
+590,Fashion,Jacket,U4220,Loved it,The Jacket stopped working after a week.,4,Yes,31,Positive
+591,Beauty,Perfume,U2197,Terrible,"The Perfume works okay, but could be better.",2,Yes,7,Negative
+592,Home & Kitchen,Blender,U3609,Loved it,Exceeded my expectations! Great Blender.,4,No,22,Positive
+593,Books,Self-help Book,U3916,Terrible,"The Self-help Book works okay, but could be better.",4,Yes,25,Positive
+594,Books,Cookbook,U2068,Okay,Decent Cookbook for the price point.,5,Yes,49,Positive
+595,Fashion,Jacket,U6443,Okay,"The Jacket is amazing, I love it!",2,No,19,Negative
+596,Electronics,Wireless Headphones,U9361,Great!,"The Wireless Headphones is amazing, I love it!",3,Yes,1,Neutral
+597,Home & Kitchen,Microwave Oven,U5355,Terrible,Exceeded my expectations! Great Microwave Oven.,1,No,22,Negative
+598,Electronics,Bluetooth Speaker,U7735,Terrible,"The Bluetooth Speaker works okay, but could be better.",1,Yes,39,Negative
+599,Beauty,Face Cream,U9230,Okay,"The Face Cream is amazing, I love it!",1,Yes,32,Negative
+600,Beauty,Hair Dryer,U5463,Loved it,I use this Hair Dryer every day and it’s fantastic.,2,Yes,0,Negative
+601,Home & Kitchen,Coffee Maker,U1129,Not good,"The Coffee Maker is amazing, I love it!",3,No,7,Neutral
+602,Books,Self-help Book,U5079,Great!,"The Self-help Book works okay, but could be better.",1,Yes,21,Negative
+603,Books,Cookbook,U2896,Okay,"The Cookbook is amazing, I love it!",2,Yes,17,Negative
+604,Electronics,Smartwatch,U6360,Loved it,Really disappointed with the Smartwatch.,3,No,18,Neutral
+605,Home & Kitchen,Air Fryer,U1013,Terrible,Exceeded my expectations! Great Air Fryer.,4,Yes,25,Positive
+606,Fashion,Sneakers,U2751,Great!,The Sneakers stopped working after a week.,1,Yes,21,Negative
+607,Books,Cookbook,U8095,Not good,The Cookbook stopped working after a week.,2,Yes,47,Negative
+608,Electronics,Bluetooth Speaker,U2144,Great!,I use this Bluetooth Speaker every day and it’s fantastic.,1,No,30,Negative
+609,Electronics,Wireless Headphones,U6567,Great!,Really disappointed with the Wireless Headphones.,2,Yes,35,Negative
+610,Electronics,Smartphone,U8656,Loved it,The Smartphone stopped working after a week.,5,No,18,Positive
+611,Fashion,Jeans,U6735,Okay,Really disappointed with the Jeans.,1,No,25,Negative
+612,Electronics,Bluetooth Speaker,U1348,Not good,The Bluetooth Speaker stopped working after a week.,1,No,5,Negative
+613,Beauty,Face Cream,U1587,Okay,Really disappointed with the Face Cream.,4,Yes,23,Positive
+614,Fashion,Jacket,U4897,Terrible,"Not worth the money, poor quality Jacket.",3,No,17,Neutral
+615,Fashion,Jacket,U7721,Okay,"The Jacket works okay, but could be better.",5,No,26,Positive
+616,Books,Fiction Novel,U5082,Loved it,Decent Fiction Novel for the price point.,2,No,24,Negative
+617,Beauty,Lipstick,U7831,Loved it,"The Lipstick works okay, but could be better.",5,Yes,31,Positive
+618,Books,Biography,U2041,Loved it,"The Biography works okay, but could be better.",3,No,47,Neutral
+619,Books,Cookbook,U4531,Okay,The Cookbook stopped working after a week.,5,No,50,Positive
+620,Fashion,Jeans,U3734,Great!,Exceeded my expectations! Great Jeans.,3,No,41,Neutral
+621,Beauty,Lipstick,U2453,Okay,"The Lipstick works okay, but could be better.",1,Yes,1,Negative
+622,Home & Kitchen,Air Fryer,U9119,Not good,Exceeded my expectations! Great Air Fryer.,2,No,1,Negative
+623,Home & Kitchen,Vacuum Cleaner,U1959,Loved it,"Not worth the money, poor quality Vacuum Cleaner.",2,Yes,37,Negative
+624,Fashion,Sneakers,U9451,Not good,"The Sneakers is amazing, I love it!",1,Yes,10,Negative
+625,Beauty,Shampoo,U8500,Terrible,"The Shampoo is amazing, I love it!",5,No,8,Positive
+626,Fashion,Jeans,U7371,Not good,"The Jeans is amazing, I love it!",3,Yes,36,Neutral
+627,Beauty,Lipstick,U4677,Loved it,The Lipstick stopped working after a week.,1,Yes,28,Negative
+628,Fashion,Handbag,U8619,Okay,"The Handbag works okay, but could be better.",1,Yes,50,Negative
+629,Beauty,Perfume,U3722,Loved it,Decent Perfume for the price point.,5,Yes,38,Positive
+630,Books,Cookbook,U1598,Terrible,Really disappointed with the Cookbook.,1,No,43,Negative
+631,Books,Biography,U3155,Terrible,"The Biography is amazing, I love it!",2,Yes,35,Negative
+632,Fashion,Sneakers,U7857,Okay,Really disappointed with the Sneakers.,3,Yes,9,Neutral
+633,Electronics,Smartwatch,U1426,Loved it,The Smartwatch stopped working after a week.,5,Yes,49,Positive
+634,Home & Kitchen,Coffee Maker,U8693,Okay,"Not worth the money, poor quality Coffee Maker.",2,No,47,Negative
+635,Electronics,Bluetooth Speaker,U7041,Okay,"The Bluetooth Speaker is amazing, I love it!",4,Yes,7,Positive
+636,Fashion,Jeans,U1825,Not good,Really disappointed with the Jeans.,4,No,47,Positive
+637,Beauty,Face Cream,U7796,Great!,The Face Cream stopped working after a week.,1,Yes,13,Negative
+638,Beauty,Face Cream,U4247,Okay,"The Face Cream works okay, but could be better.",2,No,35,Negative
+639,Books,Biography,U9212,Great!,"Not worth the money, poor quality Biography.",1,Yes,35,Negative
+640,Fashion,Handbag,U1538,Terrible,The Handbag stopped working after a week.,1,No,17,Negative
+641,Beauty,Lipstick,U7263,Okay,Exceeded my expectations! Great Lipstick.,5,No,48,Positive
+642,Beauty,Shampoo,U4836,Great!,Decent Shampoo for the price point.,1,No,47,Negative
+643,Fashion,Handbag,U5401,Loved it,I use this Handbag every day and it’s fantastic.,5,No,20,Positive
+644,Fashion,Sneakers,U6050,Not good,Decent Sneakers for the price point.,4,Yes,1,Positive
+645,Home & Kitchen,Air Fryer,U7511,Terrible,"The Air Fryer is amazing, I love it!",2,Yes,11,Negative
+646,Home & Kitchen,Vacuum Cleaner,U6889,Great!,"Not worth the money, poor quality Vacuum Cleaner.",1,No,19,Negative
+647,Beauty,Shampoo,U6965,Okay,Decent Shampoo for the price point.,5,Yes,45,Positive
+648,Home & Kitchen,Air Fryer,U2548,Loved it,Exceeded my expectations! Great Air Fryer.,5,Yes,7,Positive
+649,Home & Kitchen,Coffee Maker,U3684,Great!,"Not worth the money, poor quality Coffee Maker.",2,Yes,48,Negative
+650,Beauty,Shampoo,U2067,Not good,Exceeded my expectations! Great Shampoo.,3,Yes,27,Neutral
+651,Fashion,Sneakers,U3216,Terrible,"The Sneakers works okay, but could be better.",4,No,6,Positive
+652,Books,Children's Story,U2695,Not good,Decent Children's Story for the price point.,1,No,36,Negative
+653,Fashion,Jacket,U6588,Okay,"Not worth the money, poor quality Jacket.",2,Yes,43,Negative
+654,Beauty,Hair Dryer,U7415,Great!,The Hair Dryer stopped working after a week.,2,Yes,23,Negative
+655,Home & Kitchen,Air Fryer,U7028,Terrible,"Not worth the money, poor quality Air Fryer.",1,No,38,Negative
+656,Fashion,Handbag,U5177,Terrible,Decent Handbag for the price point.,5,Yes,14,Positive
+657,Fashion,Jeans,U6203,Okay,Decent Jeans for the price point.,3,Yes,46,Neutral
+658,Electronics,Bluetooth Speaker,U3340,Loved it,"Not worth the money, poor quality Bluetooth Speaker.",3,Yes,49,Neutral
+659,Beauty,Hair Dryer,U8243,Loved it,Exceeded my expectations! Great Hair Dryer.,1,Yes,14,Negative
+660,Beauty,Perfume,U5177,Terrible,The Perfume stopped working after a week.,5,No,13,Positive
+661,Home & Kitchen,Blender,U9527,Great!,"The Blender is amazing, I love it!",2,No,32,Negative
+662,Electronics,Wireless Headphones,U3177,Okay,"The Wireless Headphones works okay, but could be better.",1,No,20,Negative
+663,Books,Cookbook,U2351,Not good,Really disappointed with the Cookbook.,1,No,15,Negative
+664,Beauty,Perfume,U9098,Not good,Really disappointed with the Perfume.,2,Yes,31,Negative
+665,Beauty,Shampoo,U1783,Loved it,Really disappointed with the Shampoo.,3,Yes,3,Neutral
+666,Beauty,Hair Dryer,U3007,Okay,Really disappointed with the Hair Dryer.,5,Yes,24,Positive
+667,Fashion,Jeans,U1058,Terrible,"Not worth the money, poor quality Jeans.",1,Yes,49,Negative
+668,Fashion,Jeans,U4676,Loved it,"The Jeans is amazing, I love it!",3,Yes,30,Neutral
+669,Home & Kitchen,Blender,U1131,Not good,"Not worth the money, poor quality Blender.",1,Yes,21,Negative
+670,Electronics,Smartphone,U3798,Not good,Decent Smartphone for the price point.,5,No,32,Positive
+671,Fashion,Sneakers,U6226,Great!,I use this Sneakers every day and it’s fantastic.,1,Yes,13,Negative
+672,Fashion,T-shirt,U9979,Okay,"The T-shirt works okay, but could be better.",3,Yes,26,Neutral
+673,Electronics,Laptop,U4634,Great!,"The Laptop is amazing, I love it!",1,Yes,46,Negative
+674,Fashion,Jacket,U8103,Okay,"The Jacket is amazing, I love it!",2,No,34,Negative
+675,Electronics,Wireless Headphones,U4797,Okay,"Not worth the money, poor quality Wireless Headphones.",2,No,3,Negative
+676,Home & Kitchen,Blender,U2835,Terrible,"The Blender works okay, but could be better.",3,Yes,15,Neutral
+677,Beauty,Perfume,U8189,Terrible,Exceeded my expectations! Great Perfume.,5,Yes,43,Positive
+678,Home & Kitchen,Air Fryer,U1317,Loved it,Exceeded my expectations! Great Air Fryer.,2,No,32,Negative
+679,Electronics,Laptop,U1502,Loved it,"The Laptop is amazing, I love it!",1,Yes,17,Negative
+680,Home & Kitchen,Blender,U7030,Loved it,Exceeded my expectations! Great Blender.,2,Yes,47,Negative
+681,Fashion,Jeans,U5542,Loved it,Decent Jeans for the price point.,5,Yes,39,Positive
+682,Fashion,Handbag,U3018,Great!,Exceeded my expectations! Great Handbag.,1,No,27,Negative
+683,Electronics,Bluetooth Speaker,U9014,Great!,"Not worth the money, poor quality Bluetooth Speaker.",5,Yes,15,Positive
+684,Fashion,Handbag,U2037,Loved it,Exceeded my expectations! Great Handbag.,1,No,18,Negative
+685,Beauty,Face Cream,U1208,Not good,"The Face Cream works okay, but could be better.",1,Yes,50,Negative
+686,Home & Kitchen,Microwave Oven,U8714,Loved it,Decent Microwave Oven for the price point.,4,No,16,Positive
+687,Beauty,Perfume,U8028,Great!,Really disappointed with the Perfume.,4,No,35,Positive
+688,Home & Kitchen,Vacuum Cleaner,U2841,Loved it,"The Vacuum Cleaner works okay, but could be better.",2,No,42,Negative
+689,Home & Kitchen,Coffee Maker,U8558,Not good,I use this Coffee Maker every day and it’s fantastic.,2,No,32,Negative
+690,Beauty,Lipstick,U4324,Great!,Exceeded my expectations! Great Lipstick.,3,No,0,Neutral
+691,Fashion,Jacket,U1693,Great!,"The Jacket works okay, but could be better.",2,Yes,22,Negative
+692,Beauty,Face Cream,U6666,Loved it,I use this Face Cream every day and it’s fantastic.,1,Yes,0,Negative
+693,Electronics,Wireless Headphones,U8166,Okay,Decent Wireless Headphones for the price point.,5,Yes,14,Positive
+694,Fashion,Jacket,U1805,Terrible,Really disappointed with the Jacket.,1,No,33,Negative
+695,Fashion,Jeans,U7504,Okay,Decent Jeans for the price point.,5,No,16,Positive
+696,Books,Cookbook,U6034,Great!,Exceeded my expectations! Great Cookbook.,2,Yes,25,Negative
+697,Electronics,Smartphone,U5865,Not good,The Smartphone stopped working after a week.,5,Yes,25,Positive
+698,Beauty,Perfume,U2358,Okay,I use this Perfume every day and it’s fantastic.,2,No,3,Negative
+699,Books,Self-help Book,U9349,Terrible,Exceeded my expectations! Great Self-help Book.,2,Yes,9,Negative
+700,Home & Kitchen,Blender,U1078,Okay,The Blender stopped working after a week.,4,Yes,16,Positive
+701,Beauty,Face Cream,U5205,Not good,I use this Face Cream every day and it’s fantastic.,2,Yes,28,Negative
+702,Home & Kitchen,Air Fryer,U9101,Terrible,I use this Air Fryer every day and it’s fantastic.,2,No,21,Negative
+703,Electronics,Smartwatch,U2965,Great!,"The Smartwatch is amazing, I love it!",2,No,17,Negative
+704,Books,Biography,U6559,Terrible,"The Biography is amazing, I love it!",4,No,14,Positive
+705,Electronics,Bluetooth Speaker,U7057,Not good,Really disappointed with the Bluetooth Speaker.,1,Yes,23,Negative
+706,Books,Biography,U9624,Okay,"The Biography is amazing, I love it!",2,No,26,Negative
+707,Fashion,Handbag,U3412,Great!,"Not worth the money, poor quality Handbag.",2,No,23,Negative
+708,Electronics,Laptop,U2443,Great!,Really disappointed with the Laptop.,3,No,14,Neutral
+709,Electronics,Laptop,U8648,Great!,The Laptop stopped working after a week.,4,No,39,Positive
+710,Home & Kitchen,Coffee Maker,U8899,Loved it,"Not worth the money, poor quality Coffee Maker.",2,No,33,Negative
+711,Home & Kitchen,Blender,U1735,Great!,Exceeded my expectations! Great Blender.,2,Yes,43,Negative
+712,Electronics,Smartphone,U7573,Not good,"The Smartphone is amazing, I love it!",1,Yes,42,Negative
+713,Fashion,Jeans,U9063,Not good,"The Jeans works okay, but could be better.",5,No,48,Positive
+714,Home & Kitchen,Coffee Maker,U2740,Not good,Exceeded my expectations! Great Coffee Maker.,1,No,31,Negative
+715,Books,Fiction Novel,U4232,Not good,The Fiction Novel stopped working after a week.,2,No,0,Negative
+716,Fashion,T-shirt,U6467,Not good,"Not worth the money, poor quality T-shirt.",1,No,50,Negative
+717,Home & Kitchen,Microwave Oven,U2645,Great!,I use this Microwave Oven every day and it’s fantastic.,1,Yes,35,Negative
+718,Electronics,Wireless Headphones,U2083,Loved it,The Wireless Headphones stopped working after a week.,1,Yes,50,Negative
+719,Fashion,Sneakers,U2237,Loved it,"The Sneakers is amazing, I love it!",4,Yes,21,Positive
+720,Home & Kitchen,Blender,U2056,Loved it,I use this Blender every day and it’s fantastic.,4,Yes,34,Positive
+721,Beauty,Face Cream,U7132,Loved it,The Face Cream stopped working after a week.,2,No,17,Negative
+722,Books,Fiction Novel,U6906,Great!,Really disappointed with the Fiction Novel.,1,No,14,Negative
+723,Home & Kitchen,Microwave Oven,U8273,Terrible,"The Microwave Oven is amazing, I love it!",3,No,10,Neutral
+724,Electronics,Laptop,U8484,Okay,"The Laptop works okay, but could be better.",3,No,21,Neutral
+725,Beauty,Lipstick,U4350,Okay,I use this Lipstick every day and it’s fantastic.,1,Yes,30,Negative
+726,Beauty,Lipstick,U1534,Not good,Really disappointed with the Lipstick.,3,No,20,Neutral
+727,Books,Self-help Book,U1533,Terrible,"The Self-help Book works okay, but could be better.",2,Yes,34,Negative
+728,Electronics,Wireless Headphones,U6603,Terrible,Really disappointed with the Wireless Headphones.,5,No,28,Positive
+729,Home & Kitchen,Blender,U3235,Great!,"The Blender is amazing, I love it!",3,No,15,Neutral
+730,Electronics,Smartwatch,U7252,Great!,The Smartwatch stopped working after a week.,4,No,5,Positive
+731,Electronics,Smartwatch,U8319,Okay,"The Smartwatch is amazing, I love it!",1,Yes,46,Negative
+732,Beauty,Lipstick,U3136,Great!,"The Lipstick is amazing, I love it!",1,No,17,Negative
+733,Books,Biography,U5705,Great!,The Biography stopped working after a week.,2,Yes,32,Negative
+734,Home & Kitchen,Blender,U1120,Great!,Decent Blender for the price point.,1,Yes,15,Negative
+735,Electronics,Bluetooth Speaker,U7799,Terrible,"The Bluetooth Speaker works okay, but could be better.",4,No,49,Positive
+736,Books,Self-help Book,U1325,Great!,Really disappointed with the Self-help Book.,2,No,17,Negative
+737,Books,Fiction Novel,U1273,Loved it,I use this Fiction Novel every day and it’s fantastic.,5,No,43,Positive
+738,Beauty,Face Cream,U8019,Great!,The Face Cream stopped working after a week.,1,Yes,35,Negative
+739,Books,Children's Story,U8227,Great!,"Not worth the money, poor quality Children's Story.",1,Yes,1,Negative
+740,Books,Fiction Novel,U6431,Not good,Really disappointed with the Fiction Novel.,1,Yes,34,Negative
+741,Electronics,Laptop,U7430,Terrible,I use this Laptop every day and it’s fantastic.,2,No,34,Negative
+742,Home & Kitchen,Blender,U7611,Okay,"The Blender works okay, but could be better.",3,No,32,Neutral
+743,Fashion,Jeans,U4649,Loved it,"Not worth the money, poor quality Jeans.",5,Yes,30,Positive
+744,Fashion,Sneakers,U6945,Great!,Exceeded my expectations! Great Sneakers.,5,No,29,Positive
+745,Home & Kitchen,Microwave Oven,U2621,Loved it,"The Microwave Oven works okay, but could be better.",3,Yes,12,Neutral
+746,Electronics,Smartphone,U3895,Loved it,"Not worth the money, poor quality Smartphone.",2,No,47,Negative
+747,Home & Kitchen,Microwave Oven,U8683,Okay,Exceeded my expectations! Great Microwave Oven.,4,No,44,Positive
+748,Electronics,Smartphone,U1431,Okay,Decent Smartphone for the price point.,3,Yes,21,Neutral
+749,Home & Kitchen,Vacuum Cleaner,U6249,Terrible,Decent Vacuum Cleaner for the price point.,5,No,42,Positive
+750,Beauty,Face Cream,U6997,Okay,"Not worth the money, poor quality Face Cream.",3,No,49,Neutral
+751,Books,Biography,U5811,Terrible,"The Biography works okay, but could be better.",1,Yes,17,Negative
+752,Fashion,Jacket,U9190,Great!,"Not worth the money, poor quality Jacket.",1,Yes,3,Negative
+753,Books,Fiction Novel,U7428,Okay,Exceeded my expectations! Great Fiction Novel.,2,No,17,Negative
+754,Electronics,Smartwatch,U9371,Loved it,"Not worth the money, poor quality Smartwatch.",2,Yes,18,Negative
+755,Electronics,Wireless Headphones,U1987,Okay,Really disappointed with the Wireless Headphones.,1,No,0,Negative
+756,Fashion,Jacket,U6349,Great!,Exceeded my expectations! Great Jacket.,2,No,38,Negative
+757,Books,Cookbook,U4230,Terrible,The Cookbook stopped working after a week.,3,No,43,Neutral
+758,Beauty,Shampoo,U3207,Terrible,The Shampoo stopped working after a week.,4,Yes,41,Positive
+759,Fashion,Sneakers,U9399,Okay,I use this Sneakers every day and it’s fantastic.,4,No,21,Positive
+760,Fashion,Jacket,U6212,Loved it,"The Jacket is amazing, I love it!",3,No,29,Neutral
+761,Home & Kitchen,Microwave Oven,U7289,Terrible,"The Microwave Oven works okay, but could be better.",3,Yes,21,Neutral
+762,Fashion,T-shirt,U3733,Great!,I use this T-shirt every day and it’s fantastic.,3,Yes,33,Neutral
+763,Books,Cookbook,U9888,Not good,"The Cookbook works okay, but could be better.",2,Yes,9,Negative
+764,Electronics,Smartwatch,U1582,Loved it,"The Smartwatch is amazing, I love it!",2,Yes,8,Negative
+765,Home & Kitchen,Blender,U9563,Terrible,"The Blender is amazing, I love it!",2,No,27,Negative
+766,Books,Biography,U2875,Great!,Exceeded my expectations! Great Biography.,1,No,39,Negative
+767,Beauty,Perfume,U1281,Not good,"The Perfume works okay, but could be better.",3,Yes,43,Neutral
+768,Electronics,Laptop,U1300,Loved it,"The Laptop is amazing, I love it!",1,Yes,19,Negative
+769,Fashion,Handbag,U4906,Not good,I use this Handbag every day and it’s fantastic.,2,No,50,Negative
+770,Home & Kitchen,Coffee Maker,U4407,Great!,"Not worth the money, poor quality Coffee Maker.",3,Yes,19,Neutral
+771,Beauty,Shampoo,U6895,Not good,Exceeded my expectations! Great Shampoo.,5,No,19,Positive
+772,Electronics,Wireless Headphones,U2042,Loved it,Decent Wireless Headphones for the price point.,3,Yes,50,Neutral
+773,Electronics,Smartwatch,U9638,Loved it,Really disappointed with the Smartwatch.,5,Yes,9,Positive
+774,Home & Kitchen,Air Fryer,U8878,Loved it,Decent Air Fryer for the price point.,5,No,32,Positive
+775,Beauty,Lipstick,U2827,Okay,Exceeded my expectations! Great Lipstick.,1,No,35,Negative
+776,Electronics,Bluetooth Speaker,U1370,Not good,"The Bluetooth Speaker works okay, but could be better.",2,No,2,Negative
+777,Beauty,Shampoo,U7013,Loved it,I use this Shampoo every day and it’s fantastic.,5,No,30,Positive
+778,Home & Kitchen,Blender,U7562,Loved it,I use this Blender every day and it’s fantastic.,2,Yes,14,Negative
+779,Beauty,Face Cream,U8912,Terrible,The Face Cream stopped working after a week.,1,Yes,6,Negative
+780,Home & Kitchen,Coffee Maker,U3328,Great!,The Coffee Maker stopped working after a week.,5,No,43,Positive
+781,Electronics,Laptop,U9044,Great!,I use this Laptop every day and it’s fantastic.,2,No,26,Negative
+782,Electronics,Wireless Headphones,U6961,Loved it,Really disappointed with the Wireless Headphones.,1,No,26,Negative
+783,Electronics,Laptop,U2367,Terrible,"Not worth the money, poor quality Laptop.",5,No,17,Positive
+784,Electronics,Bluetooth Speaker,U8029,Great!,"Not worth the money, poor quality Bluetooth Speaker.",3,Yes,13,Neutral
+785,Fashion,T-shirt,U4895,Okay,Exceeded my expectations! Great T-shirt.,2,Yes,14,Negative
+786,Books,Children's Story,U1040,Okay,Really disappointed with the Children's Story.,2,No,45,Negative
+787,Home & Kitchen,Coffee Maker,U7488,Great!,"The Coffee Maker is amazing, I love it!",4,No,8,Positive
+788,Electronics,Laptop,U8062,Okay,"Not worth the money, poor quality Laptop.",3,Yes,23,Neutral
+789,Fashion,Jacket,U6387,Terrible,The Jacket stopped working after a week.,3,No,0,Neutral
+790,Fashion,Sneakers,U2041,Terrible,Decent Sneakers for the price point.,5,Yes,14,Positive
+791,Beauty,Face Cream,U1413,Loved it,The Face Cream stopped working after a week.,5,Yes,3,Positive
+792,Electronics,Smartwatch,U6369,Terrible,Really disappointed with the Smartwatch.,4,No,4,Positive
+793,Electronics,Smartphone,U9966,Great!,Exceeded my expectations! Great Smartphone.,5,Yes,47,Positive
+794,Fashion,Jeans,U6610,Not good,Decent Jeans for the price point.,4,Yes,46,Positive
+795,Books,Fiction Novel,U8818,Great!,"Not worth the money, poor quality Fiction Novel.",4,Yes,5,Positive
+796,Beauty,Shampoo,U3429,Terrible,The Shampoo stopped working after a week.,3,No,42,Neutral
+797,Electronics,Smartphone,U2755,Not good,The Smartphone stopped working after a week.,4,Yes,3,Positive
+798,Electronics,Bluetooth Speaker,U8769,Not good,I use this Bluetooth Speaker every day and it’s fantastic.,2,No,14,Negative
+799,Fashion,T-shirt,U6188,Loved it,Exceeded my expectations! Great T-shirt.,4,Yes,7,Positive
+800,Fashion,Handbag,U5222,Loved it,"The Handbag is amazing, I love it!",4,Yes,21,Positive
+801,Fashion,Jacket,U2373,Terrible,Decent Jacket for the price point.,2,No,24,Negative
+802,Electronics,Bluetooth Speaker,U2364,Okay,I use this Bluetooth Speaker every day and it’s fantastic.,3,Yes,15,Neutral
+803,Electronics,Laptop,U6803,Not good,"The Laptop works okay, but could be better.",4,No,18,Positive
+804,Fashion,Jacket,U9137,Loved it,Exceeded my expectations! Great Jacket.,5,Yes,13,Positive
+805,Electronics,Laptop,U3550,Terrible,"The Laptop works okay, but could be better.",1,Yes,18,Negative
+806,Fashion,T-shirt,U2902,Not good,Exceeded my expectations! Great T-shirt.,5,Yes,18,Positive
+807,Electronics,Smartwatch,U1295,Okay,"The Smartwatch is amazing, I love it!",1,Yes,13,Negative
+808,Electronics,Wireless Headphones,U6346,Not good,"The Wireless Headphones works okay, but could be better.",2,Yes,29,Negative
+809,Fashion,Sneakers,U4651,Great!,The Sneakers stopped working after a week.,4,Yes,5,Positive
+810,Electronics,Smartphone,U4763,Loved it,Exceeded my expectations! Great Smartphone.,5,Yes,49,Positive
+811,Books,Cookbook,U2703,Terrible,"The Cookbook works okay, but could be better.",2,No,47,Negative
+812,Beauty,Shampoo,U8027,Great!,"The Shampoo is amazing, I love it!",2,Yes,42,Negative
+813,Home & Kitchen,Microwave Oven,U1042,Okay,"The Microwave Oven is amazing, I love it!",4,Yes,23,Positive
+814,Fashion,Jeans,U6090,Okay,"Not worth the money, poor quality Jeans.",4,Yes,17,Positive
+815,Electronics,Wireless Headphones,U2954,Great!,The Wireless Headphones stopped working after a week.,5,No,23,Positive
+816,Home & Kitchen,Blender,U3558,Loved it,"Not worth the money, poor quality Blender.",2,No,6,Negative
+817,Beauty,Face Cream,U8652,Loved it,I use this Face Cream every day and it’s fantastic.,5,No,43,Positive
+818,Fashion,Jeans,U9031,Great!,"Not worth the money, poor quality Jeans.",2,No,7,Negative
+819,Beauty,Lipstick,U2946,Loved it,"Not worth the money, poor quality Lipstick.",1,Yes,44,Negative
+820,Beauty,Shampoo,U8031,Okay,The Shampoo stopped working after a week.,3,Yes,26,Neutral
+821,Fashion,Jeans,U1852,Loved it,Exceeded my expectations! Great Jeans.,1,Yes,9,Negative
+822,Beauty,Lipstick,U9050,Not good,"Not worth the money, poor quality Lipstick.",3,Yes,25,Neutral
+823,Fashion,Sneakers,U4117,Loved it,Really disappointed with the Sneakers.,5,Yes,2,Positive
+824,Fashion,T-shirt,U5576,Loved it,I use this T-shirt every day and it’s fantastic.,5,No,22,Positive
+825,Electronics,Bluetooth Speaker,U2880,Not good,"The Bluetooth Speaker is amazing, I love it!",1,No,33,Negative
+826,Electronics,Laptop,U1117,Not good,Exceeded my expectations! Great Laptop.,3,No,43,Neutral
+827,Fashion,Sneakers,U4912,Loved it,Decent Sneakers for the price point.,5,No,49,Positive
+828,Home & Kitchen,Blender,U1159,Not good,"The Blender works okay, but could be better.",3,No,19,Neutral
+829,Home & Kitchen,Vacuum Cleaner,U4426,Not good,Decent Vacuum Cleaner for the price point.,2,Yes,40,Negative
+830,Fashion,Jacket,U1103,Not good,I use this Jacket every day and it’s fantastic.,3,Yes,25,Neutral
+831,Electronics,Smartwatch,U1050,Loved it,Really disappointed with the Smartwatch.,1,Yes,39,Negative
+832,Home & Kitchen,Coffee Maker,U1744,Terrible,I use this Coffee Maker every day and it’s fantastic.,1,Yes,10,Negative
+833,Beauty,Face Cream,U7456,Terrible,Really disappointed with the Face Cream.,2,No,3,Negative
+834,Beauty,Face Cream,U1869,Great!,I use this Face Cream every day and it’s fantastic.,4,Yes,45,Positive
+835,Books,Biography,U6861,Not good,"Not worth the money, poor quality Biography.",4,Yes,26,Positive
+836,Beauty,Perfume,U9877,Terrible,"The Perfume works okay, but could be better.",4,Yes,27,Positive
+837,Home & Kitchen,Blender,U7772,Loved it,"The Blender works okay, but could be better.",2,Yes,28,Negative
+838,Fashion,T-shirt,U2733,Terrible,Really disappointed with the T-shirt.,1,Yes,11,Negative
+839,Books,Cookbook,U4287,Okay,"Not worth the money, poor quality Cookbook.",4,Yes,49,Positive
+840,Books,Biography,U3220,Okay,"The Biography works okay, but could be better.",4,No,7,Positive
+841,Fashion,T-shirt,U4206,Terrible,The T-shirt stopped working after a week.,2,Yes,5,Negative
+842,Fashion,T-shirt,U4637,Terrible,Decent T-shirt for the price point.,3,Yes,34,Neutral
+843,Beauty,Lipstick,U9916,Okay,I use this Lipstick every day and it’s fantastic.,3,Yes,46,Neutral
+844,Beauty,Hair Dryer,U9694,Loved it,Exceeded my expectations! Great Hair Dryer.,4,No,31,Positive
+845,Beauty,Shampoo,U8196,Loved it,Exceeded my expectations! Great Shampoo.,5,No,2,Positive
+846,Fashion,Jeans,U7704,Great!,"The Jeans is amazing, I love it!",5,No,15,Positive
+847,Books,Self-help Book,U7920,Loved it,"The Self-help Book works okay, but could be better.",4,No,27,Positive
+848,Beauty,Shampoo,U1068,Terrible,The Shampoo stopped working after a week.,4,No,10,Positive
+849,Beauty,Lipstick,U5733,Terrible,"The Lipstick works okay, but could be better.",3,No,25,Neutral
+850,Electronics,Wireless Headphones,U5145,Okay,Really disappointed with the Wireless Headphones.,5,No,20,Positive
+851,Home & Kitchen,Blender,U3250,Great!,Really disappointed with the Blender.,1,Yes,44,Negative
+852,Beauty,Perfume,U6486,Great!,I use this Perfume every day and it’s fantastic.,1,Yes,23,Negative
+853,Fashion,Jacket,U9187,Loved it,Decent Jacket for the price point.,1,Yes,27,Negative
+854,Fashion,T-shirt,U8970,Loved it,Decent T-shirt for the price point.,4,Yes,49,Positive
+855,Home & Kitchen,Blender,U8952,Loved it,Exceeded my expectations! Great Blender.,4,No,17,Positive
+856,Home & Kitchen,Air Fryer,U3961,Terrible,Exceeded my expectations! Great Air Fryer.,5,No,26,Positive
+857,Beauty,Perfume,U3228,Great!,Decent Perfume for the price point.,1,Yes,43,Negative
+858,Fashion,Handbag,U5385,Not good,"The Handbag works okay, but could be better.",3,No,43,Neutral
+859,Home & Kitchen,Microwave Oven,U6770,Loved it,"Not worth the money, poor quality Microwave Oven.",1,No,17,Negative
+860,Electronics,Laptop,U8156,Okay,Exceeded my expectations! Great Laptop.,5,No,28,Positive
+861,Home & Kitchen,Microwave Oven,U3548,Loved it,"Not worth the money, poor quality Microwave Oven.",4,Yes,5,Positive
+862,Electronics,Smartwatch,U1377,Terrible,I use this Smartwatch every day and it’s fantastic.,2,Yes,40,Negative
+863,Electronics,Smartwatch,U6357,Terrible,The Smartwatch stopped working after a week.,3,No,21,Neutral
+864,Home & Kitchen,Vacuum Cleaner,U2848,Not good,Really disappointed with the Vacuum Cleaner.,1,No,40,Negative
+865,Beauty,Face Cream,U8601,Loved it,I use this Face Cream every day and it’s fantastic.,2,Yes,37,Negative
+866,Books,Self-help Book,U3372,Terrible,I use this Self-help Book every day and it’s fantastic.,4,No,31,Positive
+867,Electronics,Laptop,U7571,Loved it,Really disappointed with the Laptop.,1,Yes,7,Negative
+868,Electronics,Smartwatch,U6273,Great!,I use this Smartwatch every day and it’s fantastic.,2,No,1,Negative
+869,Books,Fiction Novel,U2510,Great!,The Fiction Novel stopped working after a week.,5,No,21,Positive
+870,Electronics,Bluetooth Speaker,U4918,Terrible,Decent Bluetooth Speaker for the price point.,1,No,10,Negative
+871,Beauty,Shampoo,U4433,Not good,The Shampoo stopped working after a week.,2,Yes,43,Negative
+872,Fashion,Jeans,U1025,Great!,I use this Jeans every day and it’s fantastic.,2,No,44,Negative
+873,Books,Biography,U7002,Loved it,Really disappointed with the Biography.,3,Yes,10,Neutral
+874,Electronics,Smartwatch,U4124,Terrible,Really disappointed with the Smartwatch.,4,No,11,Positive
+875,Books,Fiction Novel,U3768,Terrible,Exceeded my expectations! Great Fiction Novel.,3,Yes,6,Neutral
+876,Home & Kitchen,Microwave Oven,U9509,Loved it,"The Microwave Oven is amazing, I love it!",4,Yes,37,Positive
+877,Fashion,T-shirt,U2389,Terrible,Decent T-shirt for the price point.,1,No,23,Negative
+878,Electronics,Smartphone,U1388,Okay,Really disappointed with the Smartphone.,4,No,39,Positive
+879,Fashion,T-shirt,U1479,Terrible,The T-shirt stopped working after a week.,1,Yes,7,Negative
+880,Electronics,Wireless Headphones,U7109,Okay,I use this Wireless Headphones every day and it’s fantastic.,1,Yes,12,Negative
+881,Beauty,Shampoo,U5965,Terrible,Decent Shampoo for the price point.,4,No,10,Positive
+882,Electronics,Wireless Headphones,U9730,Okay,The Wireless Headphones stopped working after a week.,2,Yes,21,Negative
+883,Beauty,Perfume,U3933,Loved it,Really disappointed with the Perfume.,1,Yes,4,Negative
+884,Beauty,Lipstick,U6374,Great!,"The Lipstick is amazing, I love it!",2,No,43,Negative
+885,Beauty,Hair Dryer,U9828,Loved it,The Hair Dryer stopped working after a week.,5,Yes,4,Positive
+886,Electronics,Smartwatch,U4041,Loved it,The Smartwatch stopped working after a week.,3,Yes,39,Neutral
+887,Electronics,Bluetooth Speaker,U5711,Okay,Really disappointed with the Bluetooth Speaker.,2,Yes,2,Negative
+888,Electronics,Wireless Headphones,U5010,Great!,"Not worth the money, poor quality Wireless Headphones.",1,Yes,29,Negative
+889,Home & Kitchen,Air Fryer,U3187,Okay,I use this Air Fryer every day and it’s fantastic.,5,No,42,Positive
+890,Books,Fiction Novel,U4771,Not good,Decent Fiction Novel for the price point.,4,Yes,40,Positive
+891,Home & Kitchen,Coffee Maker,U9301,Loved it,The Coffee Maker stopped working after a week.,4,Yes,9,Positive
+892,Electronics,Laptop,U2521,Okay,Exceeded my expectations! Great Laptop.,2,Yes,12,Negative
+893,Fashion,Sneakers,U4381,Great!,Exceeded my expectations! Great Sneakers.,5,No,49,Positive
+894,Books,Biography,U7471,Great!,Really disappointed with the Biography.,3,Yes,13,Neutral
+895,Beauty,Lipstick,U5299,Great!,Decent Lipstick for the price point.,2,Yes,17,Negative
+896,Books,Cookbook,U6248,Terrible,"The Cookbook is amazing, I love it!",2,No,36,Negative
+897,Books,Self-help Book,U2187,Great!,Really disappointed with the Self-help Book.,2,No,3,Negative
+898,Fashion,Sneakers,U1743,Not good,"The Sneakers is amazing, I love it!",3,No,49,Neutral
+899,Books,Fiction Novel,U3855,Not good,The Fiction Novel stopped working after a week.,4,No,29,Positive
+900,Fashion,Handbag,U1342,Okay,Decent Handbag for the price point.,2,No,29,Negative
+901,Books,Children's Story,U6953,Great!,Decent Children's Story for the price point.,2,No,47,Negative
+902,Home & Kitchen,Air Fryer,U1462,Great!,Really disappointed with the Air Fryer.,4,No,2,Positive
+903,Home & Kitchen,Coffee Maker,U8910,Not good,Decent Coffee Maker for the price point.,1,No,29,Negative
+904,Fashion,Sneakers,U6803,Loved it,"The Sneakers is amazing, I love it!",3,Yes,32,Neutral
+905,Books,Biography,U1929,Loved it,Really disappointed with the Biography.,1,No,4,Negative
+906,Fashion,T-shirt,U6465,Not good,I use this T-shirt every day and it’s fantastic.,1,No,31,Negative
+907,Beauty,Hair Dryer,U5305,Okay,I use this Hair Dryer every day and it’s fantastic.,2,No,39,Negative
+908,Books,Self-help Book,U8996,Terrible,Exceeded my expectations! Great Self-help Book.,5,Yes,48,Positive
+909,Electronics,Smartphone,U9497,Loved it,Exceeded my expectations! Great Smartphone.,5,No,25,Positive
+910,Beauty,Face Cream,U1543,Not good,The Face Cream stopped working after a week.,3,Yes,8,Neutral
+911,Home & Kitchen,Coffee Maker,U4692,Terrible,Decent Coffee Maker for the price point.,4,Yes,23,Positive
+912,Fashion,Handbag,U9546,Loved it,"Not worth the money, poor quality Handbag.",2,Yes,7,Negative
+913,Electronics,Laptop,U9582,Okay,"Not worth the money, poor quality Laptop.",1,Yes,0,Negative
+914,Home & Kitchen,Microwave Oven,U6818,Okay,Exceeded my expectations! Great Microwave Oven.,4,No,11,Positive
+915,Books,Children's Story,U8998,Great!,The Children's Story stopped working after a week.,1,No,39,Negative
+916,Electronics,Smartphone,U4318,Terrible,"Not worth the money, poor quality Smartphone.",2,No,29,Negative
+917,Beauty,Shampoo,U4080,Okay,"Not worth the money, poor quality Shampoo.",4,Yes,21,Positive
+918,Fashion,T-shirt,U3595,Loved it,Really disappointed with the T-shirt.,2,Yes,10,Negative
+919,Books,Cookbook,U9396,Not good,"Not worth the money, poor quality Cookbook.",5,No,22,Positive
+920,Fashion,Handbag,U2556,Loved it,"Not worth the money, poor quality Handbag.",1,Yes,12,Negative
+921,Beauty,Shampoo,U4858,Loved it,The Shampoo stopped working after a week.,4,No,2,Positive
+922,Electronics,Smartwatch,U3901,Okay,"Not worth the money, poor quality Smartwatch.",1,No,44,Negative
+923,Books,Children's Story,U2485,Terrible,Decent Children's Story for the price point.,5,No,21,Positive
+924,Books,Self-help Book,U5519,Okay,Decent Self-help Book for the price point.,2,No,30,Negative
+925,Home & Kitchen,Air Fryer,U2920,Great!,The Air Fryer stopped working after a week.,4,No,10,Positive
+926,Home & Kitchen,Coffee Maker,U3573,Terrible,Exceeded my expectations! Great Coffee Maker.,1,Yes,33,Negative
+927,Beauty,Hair Dryer,U9694,Not good,"The Hair Dryer works okay, but could be better.",2,No,27,Negative
+928,Books,Self-help Book,U1664,Terrible,I use this Self-help Book every day and it’s fantastic.,1,No,31,Negative
+929,Books,Self-help Book,U9547,Terrible,"Not worth the money, poor quality Self-help Book.",1,No,5,Negative
+930,Beauty,Perfume,U7574,Okay,"The Perfume works okay, but could be better.",4,Yes,30,Positive
+931,Electronics,Smartphone,U5203,Terrible,Really disappointed with the Smartphone.,3,No,39,Neutral
+932,Books,Fiction Novel,U6695,Terrible,Decent Fiction Novel for the price point.,3,Yes,41,Neutral
+933,Electronics,Laptop,U2676,Terrible,"The Laptop works okay, but could be better.",1,No,46,Negative
+934,Electronics,Laptop,U7837,Okay,"Not worth the money, poor quality Laptop.",1,No,47,Negative
+935,Fashion,Jeans,U2720,Loved it,Decent Jeans for the price point.,2,Yes,16,Negative
+936,Home & Kitchen,Microwave Oven,U3162,Loved it,"The Microwave Oven is amazing, I love it!",1,No,18,Negative
+937,Beauty,Hair Dryer,U3666,Okay,Decent Hair Dryer for the price point.,5,Yes,12,Positive
+938,Home & Kitchen,Microwave Oven,U6061,Not good,Decent Microwave Oven for the price point.,3,Yes,8,Neutral
+939,Fashion,Handbag,U6851,Terrible,Exceeded my expectations! Great Handbag.,4,No,16,Positive
+940,Beauty,Lipstick,U4948,Okay,"The Lipstick is amazing, I love it!",4,No,39,Positive
+941,Beauty,Hair Dryer,U4662,Loved it,Decent Hair Dryer for the price point.,1,No,46,Negative
+942,Fashion,Handbag,U3845,Okay,"The Handbag is amazing, I love it!",5,Yes,8,Positive
+943,Electronics,Smartwatch,U2999,Terrible,Exceeded my expectations! Great Smartwatch.,2,Yes,18,Negative
+944,Fashion,Handbag,U9270,Great!,The Handbag stopped working after a week.,4,No,39,Positive
+945,Fashion,Jeans,U5911,Okay,"The Jeans is amazing, I love it!",1,No,23,Negative
+946,Home & Kitchen,Vacuum Cleaner,U2766,Terrible,"Not worth the money, poor quality Vacuum Cleaner.",2,Yes,28,Negative
+947,Beauty,Hair Dryer,U7448,Loved it,"Not worth the money, poor quality Hair Dryer.",4,Yes,18,Positive
+948,Home & Kitchen,Vacuum Cleaner,U2070,Loved it,"The Vacuum Cleaner is amazing, I love it!",5,No,29,Positive
+949,Electronics,Smartphone,U4119,Loved it,Really disappointed with the Smartphone.,3,No,23,Neutral
+950,Beauty,Shampoo,U3661,Okay,The Shampoo stopped working after a week.,5,Yes,9,Positive
+951,Fashion,Handbag,U1989,Loved it,Really disappointed with the Handbag.,2,Yes,13,Negative
+952,Books,Fiction Novel,U9237,Okay,Decent Fiction Novel for the price point.,1,Yes,50,Negative
+953,Electronics,Smartphone,U8869,Great!,Exceeded my expectations! Great Smartphone.,4,Yes,2,Positive
+954,Books,Fiction Novel,U8736,Great!,The Fiction Novel stopped working after a week.,3,No,34,Neutral
+955,Electronics,Laptop,U2519,Terrible,Exceeded my expectations! Great Laptop.,4,No,15,Positive
+956,Electronics,Smartwatch,U8341,Terrible,"Not worth the money, poor quality Smartwatch.",3,No,38,Neutral
+957,Books,Cookbook,U5480,Not good,"Not worth the money, poor quality Cookbook.",4,No,28,Positive
+958,Fashion,Jeans,U7542,Loved it,Exceeded my expectations! Great Jeans.,5,Yes,33,Positive
+959,Beauty,Perfume,U6247,Terrible,I use this Perfume every day and it’s fantastic.,1,Yes,9,Negative
+960,Home & Kitchen,Vacuum Cleaner,U1400,Okay,"Not worth the money, poor quality Vacuum Cleaner.",2,No,22,Negative
+961,Books,Self-help Book,U7393,Loved it,I use this Self-help Book every day and it’s fantastic.,3,No,9,Neutral
+962,Electronics,Smartwatch,U5977,Terrible,"The Smartwatch is amazing, I love it!",3,Yes,49,Neutral
+963,Fashion,Handbag,U8742,Not good,The Handbag stopped working after a week.,3,Yes,41,Neutral
+964,Beauty,Shampoo,U4902,Loved it,The Shampoo stopped working after a week.,5,No,43,Positive
+965,Electronics,Bluetooth Speaker,U5945,Not good,I use this Bluetooth Speaker every day and it’s fantastic.,4,Yes,48,Positive
+966,Home & Kitchen,Vacuum Cleaner,U2648,Loved it,Decent Vacuum Cleaner for the price point.,3,Yes,16,Neutral
+967,Fashion,Jeans,U6439,Okay,"The Jeans is amazing, I love it!",5,Yes,12,Positive
+968,Electronics,Wireless Headphones,U1441,Terrible,I use this Wireless Headphones every day and it’s fantastic.,2,No,29,Negative
+969,Fashion,Handbag,U9834,Terrible,Decent Handbag for the price point.,5,No,6,Positive
+970,Beauty,Perfume,U7803,Okay,The Perfume stopped working after a week.,3,Yes,13,Neutral
+971,Home & Kitchen,Blender,U7082,Terrible,"Not worth the money, poor quality Blender.",5,No,21,Positive
+972,Home & Kitchen,Vacuum Cleaner,U4574,Loved it,"The Vacuum Cleaner is amazing, I love it!",1,No,50,Negative
+973,Home & Kitchen,Microwave Oven,U7769,Terrible,"The Microwave Oven is amazing, I love it!",1,Yes,6,Negative
+974,Home & Kitchen,Microwave Oven,U6648,Not good,Exceeded my expectations! Great Microwave Oven.,2,No,6,Negative
+975,Beauty,Hair Dryer,U9456,Okay,The Hair Dryer stopped working after a week.,2,Yes,47,Negative
+976,Fashion,T-shirt,U8434,Okay,Decent T-shirt for the price point.,5,No,37,Positive
+977,Books,Self-help Book,U4444,Okay,I use this Self-help Book every day and it’s fantastic.,1,Yes,3,Negative
+978,Books,Biography,U9621,Loved it,"Not worth the money, poor quality Biography.",3,No,21,Neutral
+979,Home & Kitchen,Vacuum Cleaner,U2278,Loved it,"Not worth the money, poor quality Vacuum Cleaner.",3,No,37,Neutral
+980,Beauty,Perfume,U4419,Terrible,"Not worth the money, poor quality Perfume.",3,No,30,Neutral
+981,Fashion,Jeans,U4054,Okay,I use this Jeans every day and it’s fantastic.,1,Yes,50,Negative
+982,Electronics,Smartwatch,U6894,Loved it,Exceeded my expectations! Great Smartwatch.,1,No,18,Negative
+983,Beauty,Hair Dryer,U9661,Great!,"The Hair Dryer is amazing, I love it!",4,Yes,18,Positive
+984,Fashion,Sneakers,U2512,Loved it,Decent Sneakers for the price point.,5,No,45,Positive
+985,Home & Kitchen,Microwave Oven,U2037,Okay,Exceeded my expectations! Great Microwave Oven.,4,No,32,Positive
+986,Electronics,Smartwatch,U1329,Okay,I use this Smartwatch every day and it’s fantastic.,4,Yes,46,Positive
+987,Books,Biography,U1768,Great!,I use this Biography every day and it’s fantastic.,5,No,45,Positive
+988,Books,Children's Story,U7147,Terrible,"The Children's Story works okay, but could be better.",3,Yes,12,Neutral
+989,Home & Kitchen,Coffee Maker,U8074,Loved it,"The Coffee Maker is amazing, I love it!",5,Yes,49,Positive
+990,Beauty,Perfume,U8851,Okay,"The Perfume works okay, but could be better.",4,No,18,Positive
+991,Electronics,Smartwatch,U4344,Not good,I use this Smartwatch every day and it’s fantastic.,2,No,7,Negative
+992,Fashion,Jeans,U2745,Okay,Really disappointed with the Jeans.,2,Yes,32,Negative
+993,Electronics,Smartphone,U6647,Terrible,Decent Smartphone for the price point.,2,Yes,44,Negative
+994,Home & Kitchen,Vacuum Cleaner,U6100,Not good,Decent Vacuum Cleaner for the price point.,3,Yes,26,Neutral
+995,Fashion,Jeans,U8802,Okay,Decent Jeans for the price point.,1,Yes,33,Negative
+996,Beauty,Shampoo,U9029,Terrible,I use this Shampoo every day and it’s fantastic.,4,No,14,Positive
+997,Books,Fiction Novel,U6368,Great!,Really disappointed with the Fiction Novel.,5,No,2,Positive
+998,Electronics,Smartwatch,U2970,Great!,Exceeded my expectations! Great Smartwatch.,2,No,8,Negative
+999,Home & Kitchen,Coffee Maker,U2661,Terrible,Decent Coffee Maker for the price point.,5,No,31,Positive
+1000,Books,Biography,U9949,Great!,Exceeded my expectations! Great Biography.,3,No,16,Neutral
+1001,Electronics,Smartwatch,U7725,Terrible,"The Smartwatch works okay, but could be better.",4,Yes,12,Positive
+1002,Beauty,Face Cream,U2874,Great!,"The Face Cream is amazing, I love it!",2,No,38,Negative
+1003,Home & Kitchen,Blender,U9406,Terrible,Exceeded my expectations! Great Blender.,1,Yes,3,Negative
+1004,Home & Kitchen,Microwave Oven,U9101,Not good,"The Microwave Oven is amazing, I love it!",5,Yes,7,Positive
+1005,Beauty,Face Cream,U5089,Terrible,Really disappointed with the Face Cream.,2,Yes,9,Negative
+1006,Home & Kitchen,Blender,U9926,Loved it,"The Blender works okay, but could be better.",5,Yes,24,Positive
+1007,Home & Kitchen,Blender,U8082,Loved it,"The Blender is amazing, I love it!",1,No,47,Negative
+1008,Books,Cookbook,U3966,Okay,"The Cookbook is amazing, I love it!",5,Yes,24,Positive
+1009,Beauty,Perfume,U6854,Great!,The Perfume stopped working after a week.,4,No,47,Positive
+1010,Home & Kitchen,Vacuum Cleaner,U4577,Great!,Exceeded my expectations! Great Vacuum Cleaner.,1,No,41,Negative
+1011,Fashion,Jeans,U2589,Terrible,I use this Jeans every day and it’s fantastic.,5,Yes,14,Positive
+1012,Books,Children's Story,U5886,Loved it,Exceeded my expectations! Great Children's Story.,3,Yes,1,Neutral
+1013,Home & Kitchen,Microwave Oven,U7246,Terrible,Really disappointed with the Microwave Oven.,3,No,24,Neutral
+1014,Electronics,Smartwatch,U9128,Terrible,I use this Smartwatch every day and it’s fantastic.,2,Yes,23,Negative
+1015,Home & Kitchen,Microwave Oven,U4017,Not good,Decent Microwave Oven for the price point.,4,Yes,47,Positive
+1016,Home & Kitchen,Coffee Maker,U1862,Not good,"The Coffee Maker is amazing, I love it!",2,No,46,Negative
+1017,Books,Cookbook,U9963,Loved it,Decent Cookbook for the price point.,4,Yes,12,Positive
+1018,Fashion,Handbag,U8425,Not good,Decent Handbag for the price point.,2,No,41,Negative
+1019,Beauty,Hair Dryer,U8066,Terrible,The Hair Dryer stopped working after a week.,4,Yes,9,Positive
+1020,Electronics,Smartwatch,U2397,Terrible,Really disappointed with the Smartwatch.,3,Yes,5,Neutral
+1021,Books,Children's Story,U6248,Terrible,Decent Children's Story for the price point.,1,Yes,15,Negative
+1022,Electronics,Smartwatch,U6091,Loved it,"Not worth the money, poor quality Smartwatch.",1,Yes,50,Negative
+1023,Beauty,Perfume,U2548,Okay,"The Perfume works okay, but could be better.",2,Yes,30,Negative
+1024,Home & Kitchen,Microwave Oven,U3511,Terrible,Really disappointed with the Microwave Oven.,2,No,25,Negative
+1025,Beauty,Perfume,U5512,Great!,Exceeded my expectations! Great Perfume.,3,Yes,31,Neutral
+1026,Beauty,Perfume,U1119,Loved it,I use this Perfume every day and it’s fantastic.,3,Yes,27,Neutral
+1027,Books,Self-help Book,U3729,Terrible,Really disappointed with the Self-help Book.,2,No,23,Negative
+1028,Books,Cookbook,U9069,Okay,Exceeded my expectations! Great Cookbook.,5,No,34,Positive
+1029,Home & Kitchen,Blender,U7630,Loved it,The Blender stopped working after a week.,5,Yes,23,Positive
+1030,Home & Kitchen,Coffee Maker,U7710,Not good,The Coffee Maker stopped working after a week.,5,No,46,Positive
+1031,Home & Kitchen,Blender,U6186,Loved it,I use this Blender every day and it’s fantastic.,3,Yes,20,Neutral
+1032,Electronics,Bluetooth Speaker,U6776,Terrible,Exceeded my expectations! Great Bluetooth Speaker.,2,No,18,Negative
+1033,Fashion,T-shirt,U4153,Not good,Exceeded my expectations! Great T-shirt.,3,No,36,Neutral
+1034,Books,Cookbook,U3893,Loved it,The Cookbook stopped working after a week.,2,Yes,44,Negative
+1035,Home & Kitchen,Air Fryer,U4448,Terrible,Exceeded my expectations! Great Air Fryer.,2,Yes,3,Negative
+1036,Beauty,Shampoo,U9777,Terrible,"The Shampoo is amazing, I love it!",2,No,43,Negative
+1037,Beauty,Lipstick,U5424,Okay,Exceeded my expectations! Great Lipstick.,3,Yes,42,Neutral
+1038,Books,Cookbook,U6840,Great!,Decent Cookbook for the price point.,4,Yes,20,Positive
+1039,Fashion,T-shirt,U4057,Not good,"The T-shirt works okay, but could be better.",1,Yes,33,Negative
+1040,Home & Kitchen,Coffee Maker,U6677,Okay,Exceeded my expectations! Great Coffee Maker.,1,No,29,Negative
+1041,Home & Kitchen,Air Fryer,U4912,Okay,I use this Air Fryer every day and it’s fantastic.,3,No,6,Neutral
+1042,Fashion,Handbag,U6803,Not good,"The Handbag works okay, but could be better.",4,No,18,Positive
+1043,Books,Cookbook,U2296,Not good,I use this Cookbook every day and it’s fantastic.,3,No,14,Neutral
+1044,Fashion,T-shirt,U9564,Great!,Exceeded my expectations! Great T-shirt.,5,No,34,Positive
+1045,Fashion,T-shirt,U9983,Terrible,Decent T-shirt for the price point.,4,Yes,50,Positive
+1046,Beauty,Perfume,U6851,Great!,The Perfume stopped working after a week.,5,No,23,Positive
+1047,Books,Fiction Novel,U3845,Okay,"The Fiction Novel works okay, but could be better.",1,No,11,Negative
+1048,Electronics,Laptop,U6136,Loved it,The Laptop stopped working after a week.,1,No,35,Negative
+1049,Electronics,Smartphone,U2601,Not good,"Not worth the money, poor quality Smartphone.",4,No,44,Positive
+1050,Electronics,Smartphone,U1189,Not good,I use this Smartphone every day and it’s fantastic.,5,No,8,Positive
+1051,Home & Kitchen,Coffee Maker,U1566,Great!,Exceeded my expectations! Great Coffee Maker.,4,Yes,9,Positive
+1052,Beauty,Face Cream,U6027,Okay,Decent Face Cream for the price point.,3,No,34,Neutral
+1053,Books,Cookbook,U1382,Okay,I use this Cookbook every day and it’s fantastic.,2,Yes,32,Negative
+1054,Beauty,Face Cream,U5772,Okay,Exceeded my expectations! Great Face Cream.,4,No,33,Positive
+1055,Electronics,Wireless Headphones,U4264,Terrible,The Wireless Headphones stopped working after a week.,3,No,47,Neutral
+1056,Beauty,Perfume,U9413,Terrible,"The Perfume works okay, but could be better.",2,Yes,21,Negative
+1057,Home & Kitchen,Air Fryer,U2547,Okay,Really disappointed with the Air Fryer.,4,No,22,Positive
+1058,Home & Kitchen,Blender,U2395,Loved it,Really disappointed with the Blender.,2,Yes,39,Negative
+1059,Fashion,T-shirt,U2846,Okay,"The T-shirt works okay, but could be better.",5,No,27,Positive
+1060,Books,Self-help Book,U6036,Great!,"The Self-help Book works okay, but could be better.",1,Yes,8,Negative
+1061,Fashion,Jeans,U7881,Loved it,Decent Jeans for the price point.,3,Yes,47,Neutral
+1062,Beauty,Shampoo,U1995,Loved it,"The Shampoo is amazing, I love it!",4,No,14,Positive
+1063,Electronics,Smartwatch,U9247,Terrible,"The Smartwatch is amazing, I love it!",1,Yes,3,Negative
+1064,Fashion,Handbag,U8363,Not good,The Handbag stopped working after a week.,3,Yes,44,Neutral
+1065,Electronics,Bluetooth Speaker,U5808,Okay,"Not worth the money, poor quality Bluetooth Speaker.",4,Yes,43,Positive
+1066,Beauty,Hair Dryer,U4174,Loved it,"Not worth the money, poor quality Hair Dryer.",5,Yes,34,Positive
+1067,Home & Kitchen,Vacuum Cleaner,U3632,Great!,Exceeded my expectations! Great Vacuum Cleaner.,3,No,34,Neutral
+1068,Beauty,Lipstick,U7137,Loved it,"The Lipstick works okay, but could be better.",5,No,43,Positive
+1069,Beauty,Perfume,U9248,Loved it,Exceeded my expectations! Great Perfume.,4,Yes,10,Positive
+1070,Books,Fiction Novel,U9947,Great!,I use this Fiction Novel every day and it’s fantastic.,1,Yes,26,Negative
+1071,Books,Fiction Novel,U7443,Loved it,"Not worth the money, poor quality Fiction Novel.",4,No,19,Positive
+1072,Books,Cookbook,U5333,Loved it,Really disappointed with the Cookbook.,1,No,29,Negative
+1073,Beauty,Hair Dryer,U3484,Not good,"The Hair Dryer works okay, but could be better.",5,No,7,Positive
+1074,Beauty,Hair Dryer,U9338,Terrible,"Not worth the money, poor quality Hair Dryer.",3,Yes,8,Neutral
+1075,Electronics,Smartwatch,U1859,Loved it,"Not worth the money, poor quality Smartwatch.",5,Yes,21,Positive
+1076,Fashion,Jacket,U7595,Loved it,The Jacket stopped working after a week.,4,No,24,Positive
+1077,Electronics,Smartwatch,U8812,Not good,Really disappointed with the Smartwatch.,4,Yes,10,Positive
+1078,Electronics,Smartwatch,U6464,Great!,"The Smartwatch works okay, but could be better.",5,Yes,42,Positive
+1079,Electronics,Bluetooth Speaker,U1700,Okay,I use this Bluetooth Speaker every day and it’s fantastic.,5,Yes,13,Positive
+1080,Home & Kitchen,Blender,U4310,Terrible,Exceeded my expectations! Great Blender.,2,No,47,Negative
+1081,Books,Biography,U2539,Loved it,I use this Biography every day and it’s fantastic.,1,No,13,Negative
+1082,Books,Cookbook,U9056,Terrible,Exceeded my expectations! Great Cookbook.,1,No,27,Negative
+1083,Beauty,Shampoo,U9869,Not good,I use this Shampoo every day and it’s fantastic.,4,Yes,23,Positive
+1084,Fashion,Jacket,U7192,Great!,"The Jacket works okay, but could be better.",3,Yes,39,Neutral
+1085,Books,Fiction Novel,U5616,Terrible,The Fiction Novel stopped working after a week.,5,No,49,Positive
+1086,Beauty,Shampoo,U2619,Terrible,Really disappointed with the Shampoo.,4,Yes,41,Positive
+1087,Home & Kitchen,Coffee Maker,U2514,Great!,The Coffee Maker stopped working after a week.,5,No,46,Positive
+1088,Electronics,Wireless Headphones,U2341,Great!,"Not worth the money, poor quality Wireless Headphones.",3,Yes,30,Neutral
+1089,Books,Self-help Book,U8456,Okay,Exceeded my expectations! Great Self-help Book.,4,No,46,Positive
+1090,Books,Biography,U7755,Not good,Decent Biography for the price point.,4,No,36,Positive
+1091,Beauty,Shampoo,U4887,Loved it,Really disappointed with the Shampoo.,1,Yes,1,Negative
+1092,Books,Children's Story,U7855,Terrible,"The Children's Story is amazing, I love it!",4,No,4,Positive
+1093,Fashion,Handbag,U7376,Okay,The Handbag stopped working after a week.,3,Yes,42,Neutral
+1094,Books,Fiction Novel,U9517,Loved it,"The Fiction Novel works okay, but could be better.",4,Yes,48,Positive
+1095,Books,Children's Story,U1492,Terrible,"The Children's Story works okay, but could be better.",2,No,6,Negative
+1096,Books,Biography,U6626,Terrible,"The Biography is amazing, I love it!",3,No,45,Neutral
+1097,Beauty,Shampoo,U9372,Great!,"The Shampoo works okay, but could be better.",3,No,35,Neutral
+1098,Beauty,Perfume,U7294,Great!,Decent Perfume for the price point.,5,No,31,Positive
+1099,Home & Kitchen,Vacuum Cleaner,U6752,Not good,The Vacuum Cleaner stopped working after a week.,2,Yes,38,Negative
+1100,Books,Cookbook,U8061,Great!,Decent Cookbook for the price point.,1,No,25,Negative
+1101,Home & Kitchen,Vacuum Cleaner,U3735,Loved it,"The Vacuum Cleaner is amazing, I love it!",2,Yes,35,Negative
+1102,Electronics,Bluetooth Speaker,U9975,Terrible,"The Bluetooth Speaker works okay, but could be better.",2,Yes,27,Negative
+1103,Home & Kitchen,Air Fryer,U5782,Not good,"The Air Fryer works okay, but could be better.",2,No,8,Negative
+1104,Fashion,Handbag,U7764,Loved it,"Not worth the money, poor quality Handbag.",2,No,49,Negative
+1105,Electronics,Smartwatch,U2610,Terrible,"The Smartwatch is amazing, I love it!",3,Yes,10,Neutral
+1106,Electronics,Bluetooth Speaker,U5444,Not good,"The Bluetooth Speaker works okay, but could be better.",5,No,50,Positive
+1107,Electronics,Smartphone,U3674,Great!,Decent Smartphone for the price point.,3,Yes,21,Neutral
+1108,Home & Kitchen,Vacuum Cleaner,U5143,Loved it,Exceeded my expectations! Great Vacuum Cleaner.,5,No,23,Positive
+1109,Home & Kitchen,Coffee Maker,U6123,Great!,"The Coffee Maker works okay, but could be better.",3,Yes,7,Neutral
+1110,Home & Kitchen,Microwave Oven,U7066,Okay,I use this Microwave Oven every day and it’s fantastic.,2,No,19,Negative
+1111,Beauty,Face Cream,U3184,Loved it,"The Face Cream is amazing, I love it!",5,No,49,Positive
+1112,Home & Kitchen,Blender,U4665,Okay,"The Blender is amazing, I love it!",3,No,19,Neutral
+1113,Books,Self-help Book,U5309,Terrible,"The Self-help Book works okay, but could be better.",5,No,38,Positive
+1114,Fashion,T-shirt,U1687,Loved it,I use this T-shirt every day and it’s fantastic.,5,Yes,17,Positive
+1115,Beauty,Face Cream,U5442,Not good,The Face Cream stopped working after a week.,1,No,19,Negative
+1116,Beauty,Lipstick,U6574,Not good,The Lipstick stopped working after a week.,4,No,43,Positive
+1117,Beauty,Lipstick,U2263,Terrible,"The Lipstick is amazing, I love it!",1,Yes,18,Negative
+1118,Home & Kitchen,Air Fryer,U7112,Terrible,"The Air Fryer is amazing, I love it!",2,Yes,37,Negative
+1119,Beauty,Hair Dryer,U8459,Great!,I use this Hair Dryer every day and it’s fantastic.,1,No,19,Negative
+1120,Fashion,Handbag,U4892,Terrible,"The Handbag works okay, but could be better.",4,Yes,50,Positive
+1121,Fashion,Jacket,U1870,Terrible,Exceeded my expectations! Great Jacket.,3,Yes,10,Neutral
+1122,Fashion,Sneakers,U2407,Loved it,"Not worth the money, poor quality Sneakers.",1,No,43,Negative
+1123,Fashion,Jacket,U6584,Great!,"The Jacket is amazing, I love it!",2,No,43,Negative
+1124,Fashion,Handbag,U3832,Great!,The Handbag stopped working after a week.,2,Yes,20,Negative
+1125,Beauty,Hair Dryer,U5399,Okay,"The Hair Dryer is amazing, I love it!",5,No,18,Positive
+1126,Beauty,Lipstick,U6715,Great!,Really disappointed with the Lipstick.,1,No,31,Negative
+1127,Fashion,Sneakers,U3231,Not good,Decent Sneakers for the price point.,3,Yes,23,Neutral
+1128,Books,Cookbook,U4422,Okay,I use this Cookbook every day and it’s fantastic.,2,No,4,Negative
+1129,Books,Fiction Novel,U2294,Okay,"Not worth the money, poor quality Fiction Novel.",1,Yes,26,Negative
+1130,Beauty,Shampoo,U6011,Okay,Decent Shampoo for the price point.,4,No,24,Positive
+1131,Fashion,T-shirt,U6344,Loved it,"Not worth the money, poor quality T-shirt.",1,No,44,Negative
+1132,Beauty,Hair Dryer,U4592,Okay,"The Hair Dryer works okay, but could be better.",1,No,49,Negative
+1133,Home & Kitchen,Microwave Oven,U4786,Okay,Exceeded my expectations! Great Microwave Oven.,4,Yes,21,Positive
+1134,Books,Children's Story,U9076,Terrible,"The Children's Story is amazing, I love it!",5,No,35,Positive
+1135,Fashion,Jacket,U5107,Not good,Exceeded my expectations! Great Jacket.,4,Yes,33,Positive
+1136,Books,Biography,U5017,Terrible,Decent Biography for the price point.,5,No,0,Positive
+1137,Beauty,Perfume,U3042,Not good,I use this Perfume every day and it’s fantastic.,2,Yes,5,Negative
+1138,Home & Kitchen,Air Fryer,U3505,Terrible,"The Air Fryer works okay, but could be better.",5,Yes,21,Positive
+1139,Beauty,Lipstick,U4633,Terrible,I use this Lipstick every day and it’s fantastic.,2,Yes,26,Negative
+1140,Fashion,Jacket,U8050,Great!,Exceeded my expectations! Great Jacket.,2,No,34,Negative
+1141,Beauty,Lipstick,U5924,Okay,I use this Lipstick every day and it’s fantastic.,3,Yes,38,Neutral
+1142,Fashion,Jacket,U4685,Great!,"The Jacket is amazing, I love it!",1,Yes,28,Negative
+1143,Electronics,Bluetooth Speaker,U1478,Okay,Decent Bluetooth Speaker for the price point.,5,Yes,22,Positive
+1144,Books,Biography,U4955,Loved it,Really disappointed with the Biography.,1,No,3,Negative
+1145,Fashion,Sneakers,U7507,Not good,Decent Sneakers for the price point.,3,Yes,34,Neutral
+1146,Beauty,Hair Dryer,U3047,Not good,"Not worth the money, poor quality Hair Dryer.",3,No,37,Neutral
+1147,Beauty,Perfume,U1041,Not good,"The Perfume works okay, but could be better.",1,No,17,Negative
+1148,Electronics,Smartphone,U8847,Not good,Really disappointed with the Smartphone.,2,No,50,Negative
+1149,Home & Kitchen,Coffee Maker,U3179,Loved it,The Coffee Maker stopped working after a week.,2,No,47,Negative
+1150,Books,Self-help Book,U3697,Great!,Exceeded my expectations! Great Self-help Book.,3,Yes,20,Neutral
+1151,Books,Biography,U7377,Not good,I use this Biography every day and it’s fantastic.,4,No,3,Positive
+1152,Home & Kitchen,Coffee Maker,U5478,Loved it,"The Coffee Maker is amazing, I love it!",3,No,10,Neutral
+1153,Books,Cookbook,U5999,Great!,Exceeded my expectations! Great Cookbook.,4,Yes,21,Positive
+1154,Electronics,Smartphone,U7737,Great!,"The Smartphone is amazing, I love it!",3,Yes,42,Neutral
+1155,Beauty,Hair Dryer,U8171,Okay,I use this Hair Dryer every day and it’s fantastic.,5,Yes,48,Positive
+1156,Home & Kitchen,Blender,U2066,Okay,"The Blender is amazing, I love it!",3,No,44,Neutral
+1157,Electronics,Laptop,U8362,Loved it,Decent Laptop for the price point.,1,No,35,Negative
+1158,Beauty,Perfume,U3814,Great!,Exceeded my expectations! Great Perfume.,5,No,49,Positive
+1159,Fashion,Jeans,U1168,Loved it,Exceeded my expectations! Great Jeans.,4,Yes,16,Positive
+1160,Fashion,Sneakers,U4340,Loved it,Exceeded my expectations! Great Sneakers.,4,No,40,Positive
+1161,Beauty,Shampoo,U7640,Okay,The Shampoo stopped working after a week.,5,No,35,Positive
+1162,Electronics,Smartphone,U8850,Great!,"The Smartphone is amazing, I love it!",4,Yes,28,Positive
+1163,Home & Kitchen,Vacuum Cleaner,U7971,Terrible,The Vacuum Cleaner stopped working after a week.,1,No,28,Negative
+1164,Books,Children's Story,U4565,Great!,The Children's Story stopped working after a week.,2,No,33,Negative
+1165,Electronics,Laptop,U5441,Loved it,I use this Laptop every day and it’s fantastic.,4,Yes,35,Positive
+1166,Electronics,Smartphone,U3780,Terrible,The Smartphone stopped working after a week.,2,Yes,16,Negative
+1167,Electronics,Smartphone,U3908,Great!,Decent Smartphone for the price point.,4,No,37,Positive
+1168,Electronics,Wireless Headphones,U6306,Terrible,The Wireless Headphones stopped working after a week.,4,No,29,Positive
+1169,Home & Kitchen,Microwave Oven,U7013,Not good,"The Microwave Oven is amazing, I love it!",3,Yes,20,Neutral
+1170,Home & Kitchen,Coffee Maker,U9111,Terrible,"The Coffee Maker is amazing, I love it!",4,No,22,Positive
+1171,Beauty,Shampoo,U6887,Okay,"The Shampoo works okay, but could be better.",2,Yes,34,Negative
+1172,Books,Cookbook,U9355,Great!,Really disappointed with the Cookbook.,2,Yes,6,Negative
+1173,Beauty,Perfume,U7569,Terrible,"Not worth the money, poor quality Perfume.",2,Yes,2,Negative
+1174,Beauty,Face Cream,U3342,Terrible,I use this Face Cream every day and it’s fantastic.,3,Yes,20,Neutral
+1175,Beauty,Face Cream,U3111,Okay,"The Face Cream works okay, but could be better.",5,No,23,Positive
+1176,Beauty,Shampoo,U6895,Great!,I use this Shampoo every day and it’s fantastic.,1,Yes,35,Negative
+1177,Beauty,Shampoo,U5957,Not good,Exceeded my expectations! Great Shampoo.,1,No,44,Negative
+1178,Books,Biography,U6841,Okay,I use this Biography every day and it’s fantastic.,4,No,14,Positive
+1179,Books,Children's Story,U1353,Loved it,"Not worth the money, poor quality Children's Story.",3,Yes,34,Neutral
+1180,Fashion,Handbag,U6797,Okay,I use this Handbag every day and it’s fantastic.,2,Yes,38,Negative
+1181,Electronics,Bluetooth Speaker,U7535,Okay,The Bluetooth Speaker stopped working after a week.,3,No,17,Neutral
+1182,Fashion,Jeans,U8764,Not good,I use this Jeans every day and it’s fantastic.,4,No,38,Positive
+1183,Beauty,Perfume,U8297,Okay,The Perfume stopped working after a week.,3,No,28,Neutral
+1184,Books,Biography,U6598,Okay,Really disappointed with the Biography.,4,No,45,Positive
+1185,Fashion,Jeans,U5945,Not good,I use this Jeans every day and it’s fantastic.,5,No,2,Positive
+1186,Home & Kitchen,Coffee Maker,U4467,Terrible,Exceeded my expectations! Great Coffee Maker.,4,No,5,Positive
+1187,Books,Fiction Novel,U1159,Great!,"Not worth the money, poor quality Fiction Novel.",5,Yes,19,Positive
+1188,Books,Fiction Novel,U1571,Not good,"The Fiction Novel works okay, but could be better.",1,Yes,16,Negative
+1189,Fashion,Jeans,U7086,Terrible,I use this Jeans every day and it’s fantastic.,3,No,50,Neutral
+1190,Electronics,Smartphone,U1296,Terrible,The Smartphone stopped working after a week.,3,No,8,Neutral
+1191,Electronics,Smartphone,U3068,Loved it,"The Smartphone works okay, but could be better.",3,No,10,Neutral
+1192,Beauty,Lipstick,U7061,Great!,"The Lipstick works okay, but could be better.",4,No,22,Positive
+1193,Electronics,Bluetooth Speaker,U3711,Terrible,I use this Bluetooth Speaker every day and it’s fantastic.,1,Yes,26,Negative
+1194,Home & Kitchen,Air Fryer,U7551,Loved it,"The Air Fryer works okay, but could be better.",4,No,22,Positive
+1195,Fashion,T-shirt,U3530,Loved it,"The T-shirt works okay, but could be better.",5,Yes,48,Positive
+1196,Electronics,Smartphone,U8855,Not good,The Smartphone stopped working after a week.,5,No,1,Positive
+1197,Home & Kitchen,Blender,U9669,Terrible,I use this Blender every day and it’s fantastic.,3,Yes,50,Neutral
+1198,Home & Kitchen,Blender,U2768,Okay,I use this Blender every day and it’s fantastic.,3,Yes,29,Neutral
+1199,Beauty,Face Cream,U9353,Not good,"The Face Cream works okay, but could be better.",1,Yes,33,Negative
+1200,Home & Kitchen,Vacuum Cleaner,U7285,Okay,The Vacuum Cleaner stopped working after a week.,5,Yes,42,Positive
+1201,Books,Self-help Book,U1374,Okay,The Self-help Book stopped working after a week.,4,Yes,0,Positive
+1202,Beauty,Shampoo,U1866,Loved it,"The Shampoo is amazing, I love it!",1,No,47,Negative
+1203,Electronics,Laptop,U9532,Not good,Really disappointed with the Laptop.,4,Yes,45,Positive
+1204,Fashion,T-shirt,U7142,Terrible,Really disappointed with the T-shirt.,3,No,20,Neutral
+1205,Books,Fiction Novel,U8276,Loved it,I use this Fiction Novel every day and it’s fantastic.,2,No,4,Negative
+1206,Beauty,Face Cream,U1542,Not good,"The Face Cream works okay, but could be better.",2,Yes,20,Negative
+1207,Electronics,Wireless Headphones,U8402,Great!,"The Wireless Headphones works okay, but could be better.",4,Yes,27,Positive
+1208,Home & Kitchen,Blender,U2535,Loved it,Decent Blender for the price point.,3,No,39,Neutral
+1209,Fashion,Jacket,U2346,Terrible,The Jacket stopped working after a week.,1,No,29,Negative
+1210,Beauty,Lipstick,U4527,Not good,"The Lipstick works okay, but could be better.",3,Yes,0,Neutral
+1211,Electronics,Bluetooth Speaker,U5492,Okay,"The Bluetooth Speaker is amazing, I love it!",4,Yes,17,Positive
+1212,Books,Cookbook,U5034,Terrible,Exceeded my expectations! Great Cookbook.,1,No,31,Negative
+1213,Fashion,Jeans,U8262,Terrible,"The Jeans is amazing, I love it!",3,No,21,Neutral
+1214,Books,Fiction Novel,U1375,Terrible,Decent Fiction Novel for the price point.,2,No,42,Negative
+1215,Books,Self-help Book,U6325,Not good,Exceeded my expectations! Great Self-help Book.,5,Yes,29,Positive
+1216,Electronics,Bluetooth Speaker,U3643,Okay,Decent Bluetooth Speaker for the price point.,2,Yes,16,Negative
+1217,Home & Kitchen,Blender,U2634,Terrible,"The Blender is amazing, I love it!",4,Yes,8,Positive
+1218,Books,Children's Story,U7308,Not good,"Not worth the money, poor quality Children's Story.",4,Yes,30,Positive
+1219,Electronics,Smartphone,U5857,Terrible,"The Smartphone works okay, but could be better.",3,Yes,33,Neutral
+1220,Books,Biography,U8913,Not good,The Biography stopped working after a week.,5,No,25,Positive
+1221,Books,Biography,U8160,Great!,I use this Biography every day and it’s fantastic.,2,No,39,Negative
+1222,Beauty,Hair Dryer,U3566,Loved it,I use this Hair Dryer every day and it’s fantastic.,5,Yes,31,Positive
+1223,Home & Kitchen,Microwave Oven,U1432,Not good,Exceeded my expectations! Great Microwave Oven.,2,No,17,Negative
+1224,Fashion,T-shirt,U2166,Loved it,Exceeded my expectations! Great T-shirt.,2,Yes,26,Negative
+1225,Beauty,Face Cream,U8630,Not good,"The Face Cream works okay, but could be better.",1,Yes,11,Negative
+1226,Home & Kitchen,Blender,U2445,Not good,Decent Blender for the price point.,2,No,15,Negative
+1227,Beauty,Face Cream,U1870,Loved it,"The Face Cream works okay, but could be better.",5,Yes,30,Positive
+1228,Home & Kitchen,Coffee Maker,U9704,Not good,"Not worth the money, poor quality Coffee Maker.",4,Yes,23,Positive
+1229,Beauty,Face Cream,U8535,Great!,Decent Face Cream for the price point.,5,No,50,Positive
+1230,Fashion,Sneakers,U5252,Loved it,Really disappointed with the Sneakers.,3,No,44,Neutral
+1231,Beauty,Lipstick,U7506,Great!,The Lipstick stopped working after a week.,5,No,12,Positive
+1232,Books,Self-help Book,U7225,Terrible,"The Self-help Book works okay, but could be better.",5,Yes,42,Positive
+1233,Electronics,Laptop,U1925,Loved it,"The Laptop works okay, but could be better.",5,Yes,46,Positive
+1234,Fashion,Handbag,U1622,Great!,The Handbag stopped working after a week.,2,Yes,1,Negative
+1235,Books,Children's Story,U3588,Great!,The Children's Story stopped working after a week.,5,No,45,Positive
+1236,Beauty,Perfume,U7394,Terrible,"Not worth the money, poor quality Perfume.",1,Yes,33,Negative
+1237,Beauty,Hair Dryer,U9015,Terrible,Decent Hair Dryer for the price point.,3,No,0,Neutral
+1238,Beauty,Shampoo,U1553,Great!,Really disappointed with the Shampoo.,3,Yes,36,Neutral
+1239,Books,Fiction Novel,U3357,Not good,I use this Fiction Novel every day and it’s fantastic.,3,Yes,38,Neutral
+1240,Fashion,Handbag,U8402,Not good,Decent Handbag for the price point.,5,No,23,Positive
+1241,Fashion,T-shirt,U9955,Not good,"The T-shirt is amazing, I love it!",4,Yes,35,Positive
+1242,Electronics,Laptop,U6576,Terrible,I use this Laptop every day and it’s fantastic.,1,No,47,Negative
+1243,Beauty,Hair Dryer,U9128,Great!,Decent Hair Dryer for the price point.,3,Yes,29,Neutral
+1244,Beauty,Face Cream,U5816,Terrible,Exceeded my expectations! Great Face Cream.,2,No,19,Negative
+1245,Home & Kitchen,Coffee Maker,U4715,Loved it,The Coffee Maker stopped working after a week.,1,No,32,Negative
+1246,Beauty,Shampoo,U5377,Great!,Decent Shampoo for the price point.,4,No,29,Positive
+1247,Beauty,Hair Dryer,U7394,Not good,The Hair Dryer stopped working after a week.,2,No,36,Negative
+1248,Electronics,Wireless Headphones,U7380,Not good,"Not worth the money, poor quality Wireless Headphones.",3,Yes,32,Neutral
+1249,Beauty,Shampoo,U7888,Not good,"The Shampoo is amazing, I love it!",1,No,30,Negative
+1250,Beauty,Lipstick,U8540,Loved it,"Not worth the money, poor quality Lipstick.",3,No,17,Neutral
+1251,Home & Kitchen,Coffee Maker,U9912,Great!,Really disappointed with the Coffee Maker.,3,No,34,Neutral
+1252,Home & Kitchen,Microwave Oven,U1880,Terrible,I use this Microwave Oven every day and it’s fantastic.,2,No,0,Negative
+1253,Books,Biography,U1531,Great!,Really disappointed with the Biography.,1,Yes,45,Negative
+1254,Beauty,Hair Dryer,U1711,Loved it,"Not worth the money, poor quality Hair Dryer.",3,Yes,26,Neutral
+1255,Electronics,Smartphone,U2963,Okay,Decent Smartphone for the price point.,1,No,37,Negative
+1256,Beauty,Hair Dryer,U1265,Loved it,Decent Hair Dryer for the price point.,4,Yes,13,Positive
+1257,Electronics,Smartwatch,U8170,Terrible,"The Smartwatch is amazing, I love it!",2,No,15,Negative
+1258,Books,Cookbook,U1632,Not good,"The Cookbook works okay, but could be better.",4,No,39,Positive
+1259,Books,Self-help Book,U3718,Okay,The Self-help Book stopped working after a week.,2,Yes,25,Negative
+1260,Home & Kitchen,Microwave Oven,U7774,Great!,Really disappointed with the Microwave Oven.,4,No,10,Positive
+1261,Beauty,Shampoo,U8061,Terrible,Really disappointed with the Shampoo.,3,Yes,32,Neutral
+1262,Electronics,Bluetooth Speaker,U4519,Loved it,"The Bluetooth Speaker is amazing, I love it!",3,Yes,7,Neutral
+1263,Beauty,Hair Dryer,U9853,Great!,Decent Hair Dryer for the price point.,1,Yes,6,Negative
+1264,Beauty,Lipstick,U7860,Great!,Decent Lipstick for the price point.,3,Yes,22,Neutral
+1265,Electronics,Wireless Headphones,U4359,Okay,The Wireless Headphones stopped working after a week.,2,Yes,46,Negative
+1266,Books,Children's Story,U9633,Loved it,I use this Children's Story every day and it’s fantastic.,4,Yes,47,Positive
+1267,Fashion,Jeans,U7108,Okay,"The Jeans works okay, but could be better.",3,No,25,Neutral
+1268,Home & Kitchen,Blender,U2263,Great!,The Blender stopped working after a week.,5,No,23,Positive
+1269,Fashion,Jacket,U9550,Okay,Really disappointed with the Jacket.,3,Yes,31,Neutral
+1270,Home & Kitchen,Microwave Oven,U5446,Not good,The Microwave Oven stopped working after a week.,1,Yes,45,Negative
+1271,Home & Kitchen,Air Fryer,U2847,Not good,Exceeded my expectations! Great Air Fryer.,5,No,42,Positive
+1272,Fashion,Jacket,U9306,Loved it,Really disappointed with the Jacket.,3,Yes,48,Neutral
+1273,Books,Biography,U7505,Terrible,Decent Biography for the price point.,3,No,10,Neutral
+1274,Home & Kitchen,Microwave Oven,U2564,Terrible,"The Microwave Oven is amazing, I love it!",4,Yes,28,Positive
+1275,Home & Kitchen,Microwave Oven,U7680,Great!,Decent Microwave Oven for the price point.,4,No,12,Positive
+1276,Electronics,Bluetooth Speaker,U1484,Okay,Decent Bluetooth Speaker for the price point.,1,No,36,Negative
+1277,Beauty,Hair Dryer,U4705,Loved it,I use this Hair Dryer every day and it’s fantastic.,2,Yes,34,Negative
+1278,Books,Biography,U2519,Not good,I use this Biography every day and it’s fantastic.,5,Yes,21,Positive
+1279,Electronics,Bluetooth Speaker,U2723,Okay,Decent Bluetooth Speaker for the price point.,1,Yes,49,Negative
+1280,Home & Kitchen,Coffee Maker,U4792,Okay,Decent Coffee Maker for the price point.,2,No,47,Negative
+1281,Beauty,Shampoo,U4106,Loved it,Exceeded my expectations! Great Shampoo.,1,No,50,Negative
+1282,Books,Self-help Book,U8656,Great!,Exceeded my expectations! Great Self-help Book.,3,No,1,Neutral
+1283,Fashion,Jacket,U5018,Not good,I use this Jacket every day and it’s fantastic.,2,Yes,25,Negative
+1284,Books,Self-help Book,U3897,Okay,"Not worth the money, poor quality Self-help Book.",4,Yes,27,Positive
+1285,Fashion,T-shirt,U2342,Loved it,"The T-shirt is amazing, I love it!",1,No,30,Negative
+1286,Beauty,Perfume,U1305,Terrible,Really disappointed with the Perfume.,2,No,13,Negative
+1287,Books,Children's Story,U9160,Great!,The Children's Story stopped working after a week.,4,Yes,50,Positive
+1288,Books,Biography,U5775,Terrible,Exceeded my expectations! Great Biography.,5,Yes,44,Positive
+1289,Fashion,Jeans,U5044,Okay,Decent Jeans for the price point.,2,Yes,39,Negative
+1290,Books,Fiction Novel,U3289,Loved it,"Not worth the money, poor quality Fiction Novel.",1,Yes,48,Negative
+1291,Beauty,Lipstick,U2927,Okay,Really disappointed with the Lipstick.,2,Yes,9,Negative
+1292,Fashion,Jeans,U3780,Not good,"Not worth the money, poor quality Jeans.",2,Yes,46,Negative
+1293,Electronics,Wireless Headphones,U2432,Terrible,Decent Wireless Headphones for the price point.,3,Yes,5,Neutral
+1294,Books,Biography,U1698,Loved it,I use this Biography every day and it’s fantastic.,1,No,50,Negative
+1295,Electronics,Smartwatch,U3832,Okay,Decent Smartwatch for the price point.,2,Yes,9,Negative
+1296,Electronics,Bluetooth Speaker,U4090,Not good,Decent Bluetooth Speaker for the price point.,2,Yes,6,Negative
+1297,Books,Children's Story,U9022,Great!,The Children's Story stopped working after a week.,2,No,44,Negative
+1298,Books,Self-help Book,U3257,Terrible,Exceeded my expectations! Great Self-help Book.,1,Yes,24,Negative
+1299,Electronics,Smartphone,U7201,Great!,"The Smartphone is amazing, I love it!",2,No,7,Negative
+1300,Electronics,Wireless Headphones,U5762,Loved it,I use this Wireless Headphones every day and it’s fantastic.,5,No,23,Positive
+1301,Fashion,Handbag,U4501,Loved it,"Not worth the money, poor quality Handbag.",5,No,6,Positive
+1302,Electronics,Smartphone,U6107,Loved it,"Not worth the money, poor quality Smartphone.",3,No,31,Neutral
+1303,Electronics,Smartwatch,U2371,Okay,"Not worth the money, poor quality Smartwatch.",3,Yes,5,Neutral
+1304,Beauty,Shampoo,U9808,Okay,"The Shampoo is amazing, I love it!",5,Yes,29,Positive
+1305,Beauty,Hair Dryer,U7951,Great!,The Hair Dryer stopped working after a week.,5,No,39,Positive
+1306,Books,Cookbook,U9857,Not good,Really disappointed with the Cookbook.,4,No,20,Positive
+1307,Beauty,Lipstick,U1933,Okay,Exceeded my expectations! Great Lipstick.,5,No,34,Positive
+1308,Home & Kitchen,Vacuum Cleaner,U4855,Loved it,Really disappointed with the Vacuum Cleaner.,3,No,25,Neutral
+1309,Home & Kitchen,Vacuum Cleaner,U5715,Okay,"Not worth the money, poor quality Vacuum Cleaner.",2,No,39,Negative
+1310,Beauty,Hair Dryer,U1332,Loved it,"The Hair Dryer is amazing, I love it!",1,No,37,Negative
+1311,Home & Kitchen,Blender,U3682,Terrible,Exceeded my expectations! Great Blender.,5,Yes,11,Positive
+1312,Books,Biography,U3760,Great!,The Biography stopped working after a week.,1,No,49,Negative
+1313,Home & Kitchen,Air Fryer,U5664,Okay,I use this Air Fryer every day and it’s fantastic.,3,No,41,Neutral
+1314,Electronics,Laptop,U3360,Not good,I use this Laptop every day and it’s fantastic.,4,Yes,45,Positive
+1315,Beauty,Face Cream,U5098,Not good,Exceeded my expectations! Great Face Cream.,4,No,6,Positive
+1316,Home & Kitchen,Coffee Maker,U2472,Loved it,"The Coffee Maker is amazing, I love it!",1,No,8,Negative
+1317,Fashion,Handbag,U7570,Terrible,Really disappointed with the Handbag.,2,Yes,21,Negative
+1318,Electronics,Smartwatch,U6601,Not good,"The Smartwatch works okay, but could be better.",3,No,46,Neutral
+1319,Electronics,Wireless Headphones,U3046,Great!,Exceeded my expectations! Great Wireless Headphones.,1,Yes,3,Negative
+1320,Fashion,Sneakers,U2294,Great!,"The Sneakers works okay, but could be better.",5,No,26,Positive
+1321,Beauty,Shampoo,U7411,Great!,"Not worth the money, poor quality Shampoo.",4,Yes,35,Positive
+1322,Books,Biography,U4702,Okay,The Biography stopped working after a week.,1,No,41,Negative
+1323,Home & Kitchen,Blender,U3995,Not good,Exceeded my expectations! Great Blender.,1,No,43,Negative
+1324,Fashion,Handbag,U9233,Okay,The Handbag stopped working after a week.,4,No,37,Positive
+1325,Books,Children's Story,U8679,Great!,"The Children's Story works okay, but could be better.",5,Yes,15,Positive
+1326,Electronics,Smartwatch,U3124,Great!,"The Smartwatch is amazing, I love it!",1,No,47,Negative
+1327,Books,Self-help Book,U5955,Loved it,I use this Self-help Book every day and it’s fantastic.,4,Yes,13,Positive
+1328,Home & Kitchen,Microwave Oven,U4039,Great!,"The Microwave Oven is amazing, I love it!",3,Yes,38,Neutral
+1329,Home & Kitchen,Microwave Oven,U6964,Okay,Exceeded my expectations! Great Microwave Oven.,2,Yes,36,Negative
+1330,Books,Fiction Novel,U4450,Terrible,Exceeded my expectations! Great Fiction Novel.,5,No,25,Positive
+1331,Beauty,Face Cream,U2819,Okay,Decent Face Cream for the price point.,3,No,8,Neutral
+1332,Books,Biography,U3376,Not good,"The Biography is amazing, I love it!",3,Yes,11,Neutral
+1333,Electronics,Smartphone,U1255,Loved it,"The Smartphone works okay, but could be better.",3,No,31,Neutral
+1334,Electronics,Wireless Headphones,U1456,Great!,Exceeded my expectations! Great Wireless Headphones.,3,No,47,Neutral
+1335,Electronics,Smartphone,U4155,Great!,The Smartphone stopped working after a week.,4,Yes,20,Positive
+1336,Beauty,Lipstick,U6322,Terrible,Really disappointed with the Lipstick.,3,Yes,8,Neutral
+1337,Books,Children's Story,U9294,Not good,Exceeded my expectations! Great Children's Story.,2,No,50,Negative
+1338,Beauty,Lipstick,U5199,Great!,"Not worth the money, poor quality Lipstick.",2,Yes,12,Negative
+1339,Home & Kitchen,Air Fryer,U9892,Great!,Decent Air Fryer for the price point.,2,No,6,Negative
+1340,Home & Kitchen,Air Fryer,U3678,Great!,Really disappointed with the Air Fryer.,2,No,30,Negative
+1341,Electronics,Smartwatch,U3443,Loved it,I use this Smartwatch every day and it’s fantastic.,5,Yes,23,Positive
+1342,Electronics,Bluetooth Speaker,U4384,Loved it,Exceeded my expectations! Great Bluetooth Speaker.,1,Yes,48,Negative
+1343,Home & Kitchen,Air Fryer,U2318,Terrible,I use this Air Fryer every day and it’s fantastic.,1,No,39,Negative
+1344,Books,Self-help Book,U4366,Not good,Decent Self-help Book for the price point.,1,No,49,Negative
+1345,Fashion,Handbag,U5312,Not good,Exceeded my expectations! Great Handbag.,2,Yes,20,Negative
+1346,Electronics,Laptop,U1436,Terrible,I use this Laptop every day and it’s fantastic.,5,Yes,30,Positive
+1347,Beauty,Perfume,U8225,Not good,Decent Perfume for the price point.,2,Yes,8,Negative
+1348,Home & Kitchen,Coffee Maker,U4134,Great!,Really disappointed with the Coffee Maker.,3,Yes,15,Neutral
+1349,Electronics,Laptop,U6723,Great!,"The Laptop is amazing, I love it!",3,No,39,Neutral
+1350,Home & Kitchen,Coffee Maker,U6086,Not good,"The Coffee Maker is amazing, I love it!",2,Yes,2,Negative
+1351,Fashion,Jacket,U2912,Okay,Really disappointed with the Jacket.,4,No,14,Positive
+1352,Fashion,Sneakers,U9006,Loved it,Exceeded my expectations! Great Sneakers.,3,No,35,Neutral
+1353,Electronics,Smartwatch,U1354,Great!,"The Smartwatch is amazing, I love it!",2,Yes,7,Negative
+1354,Home & Kitchen,Microwave Oven,U1472,Great!,"Not worth the money, poor quality Microwave Oven.",3,No,11,Neutral
+1355,Electronics,Smartphone,U5078,Terrible,I use this Smartphone every day and it’s fantastic.,5,Yes,37,Positive
+1356,Beauty,Lipstick,U5563,Great!,Really disappointed with the Lipstick.,3,Yes,49,Neutral
+1357,Home & Kitchen,Vacuum Cleaner,U7658,Terrible,"The Vacuum Cleaner is amazing, I love it!",3,No,33,Neutral
+1358,Fashion,Jacket,U9608,Terrible,Exceeded my expectations! Great Jacket.,1,No,19,Negative
+1359,Beauty,Lipstick,U5052,Okay,"Not worth the money, poor quality Lipstick.",1,No,13,Negative
+1360,Electronics,Smartwatch,U7486,Loved it,I use this Smartwatch every day and it’s fantastic.,2,Yes,20,Negative
+1361,Beauty,Hair Dryer,U4476,Terrible,Really disappointed with the Hair Dryer.,2,Yes,17,Negative
+1362,Beauty,Hair Dryer,U1470,Great!,Really disappointed with the Hair Dryer.,4,No,13,Positive
+1363,Electronics,Wireless Headphones,U1945,Terrible,Decent Wireless Headphones for the price point.,3,Yes,1,Neutral
+1364,Books,Biography,U8128,Terrible,I use this Biography every day and it’s fantastic.,5,Yes,10,Positive
+1365,Fashion,Sneakers,U9149,Terrible,Really disappointed with the Sneakers.,1,Yes,38,Negative
+1366,Beauty,Lipstick,U3646,Okay,I use this Lipstick every day and it’s fantastic.,3,Yes,17,Neutral
+1367,Beauty,Hair Dryer,U1451,Loved it,Really disappointed with the Hair Dryer.,2,Yes,31,Negative
+1368,Beauty,Lipstick,U1565,Great!,Decent Lipstick for the price point.,5,Yes,28,Positive
+1369,Home & Kitchen,Coffee Maker,U1812,Not good,The Coffee Maker stopped working after a week.,1,Yes,1,Negative
+1370,Books,Children's Story,U5636,Terrible,The Children's Story stopped working after a week.,1,Yes,30,Negative
+1371,Electronics,Bluetooth Speaker,U1862,Okay,The Bluetooth Speaker stopped working after a week.,3,No,50,Neutral
+1372,Electronics,Laptop,U1781,Okay,Decent Laptop for the price point.,4,No,16,Positive
+1373,Home & Kitchen,Air Fryer,U6810,Not good,"Not worth the money, poor quality Air Fryer.",2,No,43,Negative
+1374,Books,Children's Story,U9058,Not good,Exceeded my expectations! Great Children's Story.,5,Yes,47,Positive
+1375,Electronics,Laptop,U2191,Not good,I use this Laptop every day and it’s fantastic.,4,Yes,0,Positive
+1376,Home & Kitchen,Microwave Oven,U8031,Great!,Decent Microwave Oven for the price point.,4,Yes,34,Positive
+1377,Fashion,Jeans,U1079,Great!,"Not worth the money, poor quality Jeans.",1,Yes,30,Negative
+1378,Electronics,Bluetooth Speaker,U5417,Okay,"The Bluetooth Speaker is amazing, I love it!",1,Yes,12,Negative
+1379,Electronics,Laptop,U5330,Not good,Really disappointed with the Laptop.,5,Yes,43,Positive
+1380,Home & Kitchen,Blender,U6743,Great!,Decent Blender for the price point.,1,No,5,Negative
+1381,Electronics,Bluetooth Speaker,U4784,Okay,The Bluetooth Speaker stopped working after a week.,1,No,48,Negative
+1382,Home & Kitchen,Air Fryer,U9489,Okay,Exceeded my expectations! Great Air Fryer.,3,No,49,Neutral
+1383,Home & Kitchen,Coffee Maker,U1283,Great!,Exceeded my expectations! Great Coffee Maker.,3,Yes,46,Neutral
+1384,Fashion,T-shirt,U2973,Not good,The T-shirt stopped working after a week.,5,No,22,Positive
+1385,Electronics,Wireless Headphones,U7603,Loved it,Exceeded my expectations! Great Wireless Headphones.,1,No,29,Negative
+1386,Books,Cookbook,U9403,Not good,Decent Cookbook for the price point.,4,Yes,20,Positive
+1387,Beauty,Perfume,U1198,Terrible,Exceeded my expectations! Great Perfume.,5,Yes,36,Positive
+1388,Beauty,Lipstick,U7926,Loved it,"Not worth the money, poor quality Lipstick.",1,Yes,27,Negative
+1389,Books,Self-help Book,U5789,Okay,Really disappointed with the Self-help Book.,3,Yes,41,Neutral
+1390,Home & Kitchen,Coffee Maker,U8368,Loved it,Decent Coffee Maker for the price point.,2,Yes,29,Negative
+1391,Electronics,Smartphone,U8063,Terrible,"The Smartphone is amazing, I love it!",2,Yes,26,Negative
+1392,Fashion,T-shirt,U4657,Terrible,"Not worth the money, poor quality T-shirt.",3,No,28,Neutral
+1393,Fashion,Handbag,U7747,Not good,Decent Handbag for the price point.,3,Yes,8,Neutral
+1394,Beauty,Lipstick,U6994,Loved it,The Lipstick stopped working after a week.,2,No,0,Negative
+1395,Electronics,Smartwatch,U5333,Terrible,Decent Smartwatch for the price point.,3,No,9,Neutral
+1396,Books,Fiction Novel,U9777,Terrible,Decent Fiction Novel for the price point.,2,No,14,Negative
+1397,Home & Kitchen,Microwave Oven,U5107,Terrible,Decent Microwave Oven for the price point.,3,Yes,40,Neutral
+1398,Fashion,T-shirt,U9100,Loved it,Exceeded my expectations! Great T-shirt.,3,Yes,49,Neutral
+1399,Fashion,T-shirt,U1518,Okay,"The T-shirt works okay, but could be better.",5,No,22,Positive
+1400,Books,Cookbook,U3279,Okay,Exceeded my expectations! Great Cookbook.,1,No,27,Negative
+1401,Home & Kitchen,Air Fryer,U1379,Not good,Really disappointed with the Air Fryer.,4,Yes,49,Positive
+1402,Home & Kitchen,Air Fryer,U7564,Not good,Exceeded my expectations! Great Air Fryer.,1,No,33,Negative
+1403,Fashion,Jeans,U5127,Great!,Decent Jeans for the price point.,5,No,50,Positive
+1404,Electronics,Smartphone,U1438,Great!,I use this Smartphone every day and it’s fantastic.,3,Yes,24,Neutral
+1405,Fashion,Sneakers,U9236,Terrible,Exceeded my expectations! Great Sneakers.,2,No,50,Negative
+1406,Electronics,Smartwatch,U5123,Terrible,"Not worth the money, poor quality Smartwatch.",4,No,17,Positive
+1407,Books,Fiction Novel,U2577,Not good,Decent Fiction Novel for the price point.,4,Yes,19,Positive
+1408,Home & Kitchen,Vacuum Cleaner,U6875,Okay,Exceeded my expectations! Great Vacuum Cleaner.,1,Yes,8,Negative
+1409,Beauty,Hair Dryer,U5065,Terrible,"The Hair Dryer is amazing, I love it!",2,Yes,38,Negative
+1410,Beauty,Shampoo,U6887,Not good,I use this Shampoo every day and it’s fantastic.,3,Yes,21,Neutral
+1411,Electronics,Bluetooth Speaker,U6335,Terrible,"The Bluetooth Speaker works okay, but could be better.",5,No,1,Positive
+1412,Electronics,Laptop,U4261,Great!,"Not worth the money, poor quality Laptop.",2,Yes,20,Negative
+1413,Books,Fiction Novel,U8625,Not good,"The Fiction Novel works okay, but could be better.",1,Yes,26,Negative
+1414,Beauty,Hair Dryer,U3822,Not good,The Hair Dryer stopped working after a week.,5,No,46,Positive
+1415,Electronics,Smartwatch,U2483,Terrible,Really disappointed with the Smartwatch.,3,Yes,36,Neutral
+1416,Home & Kitchen,Microwave Oven,U2636,Terrible,Really disappointed with the Microwave Oven.,2,Yes,45,Negative
+1417,Books,Self-help Book,U8572,Terrible,"Not worth the money, poor quality Self-help Book.",3,No,50,Neutral
+1418,Fashion,T-shirt,U8467,Great!,Exceeded my expectations! Great T-shirt.,2,No,17,Negative
+1419,Electronics,Wireless Headphones,U4338,Loved it,The Wireless Headphones stopped working after a week.,1,Yes,5,Negative
+1420,Beauty,Face Cream,U8196,Not good,Decent Face Cream for the price point.,2,No,23,Negative
+1421,Fashion,Jeans,U1147,Okay,I use this Jeans every day and it’s fantastic.,3,Yes,25,Neutral
+1422,Fashion,Jacket,U6400,Loved it,"The Jacket works okay, but could be better.",1,No,45,Negative
+1423,Beauty,Face Cream,U5578,Okay,"The Face Cream is amazing, I love it!",2,Yes,41,Negative
+1424,Fashion,T-shirt,U5222,Okay,Exceeded my expectations! Great T-shirt.,5,No,22,Positive
+1425,Electronics,Smartwatch,U7491,Okay,"The Smartwatch works okay, but could be better.",3,No,15,Neutral
+1426,Home & Kitchen,Blender,U3038,Great!,I use this Blender every day and it’s fantastic.,4,Yes,0,Positive
+1427,Home & Kitchen,Blender,U9371,Loved it,Really disappointed with the Blender.,4,Yes,22,Positive
+1428,Fashion,Jacket,U7022,Loved it,"Not worth the money, poor quality Jacket.",3,Yes,33,Neutral
+1429,Fashion,Sneakers,U4624,Great!,Decent Sneakers for the price point.,5,No,36,Positive
+1430,Electronics,Bluetooth Speaker,U7373,Great!,"The Bluetooth Speaker is amazing, I love it!",5,Yes,2,Positive
+1431,Books,Fiction Novel,U9362,Loved it,Exceeded my expectations! Great Fiction Novel.,1,Yes,40,Negative
+1432,Electronics,Wireless Headphones,U3307,Terrible,Exceeded my expectations! Great Wireless Headphones.,4,Yes,3,Positive
+1433,Home & Kitchen,Microwave Oven,U3693,Not good,"The Microwave Oven is amazing, I love it!",2,Yes,4,Negative
+1434,Fashion,Jacket,U1344,Loved it,"The Jacket is amazing, I love it!",1,No,23,Negative
+1435,Electronics,Smartphone,U3541,Not good,"Not worth the money, poor quality Smartphone.",1,Yes,19,Negative
+1436,Electronics,Smartphone,U1967,Terrible,"The Smartphone works okay, but could be better.",3,No,31,Neutral
+1437,Electronics,Smartwatch,U6464,Terrible,I use this Smartwatch every day and it’s fantastic.,4,No,0,Positive
+1438,Electronics,Bluetooth Speaker,U6364,Great!,The Bluetooth Speaker stopped working after a week.,2,No,21,Negative
+1439,Home & Kitchen,Vacuum Cleaner,U8488,Okay,I use this Vacuum Cleaner every day and it’s fantastic.,1,Yes,10,Negative
+1440,Beauty,Shampoo,U3553,Not good,The Shampoo stopped working after a week.,4,Yes,38,Positive
+1441,Home & Kitchen,Blender,U5336,Okay,The Blender stopped working after a week.,3,Yes,34,Neutral
+1442,Home & Kitchen,Vacuum Cleaner,U8394,Okay,Really disappointed with the Vacuum Cleaner.,1,No,47,Negative
+1443,Fashion,Handbag,U2638,Not good,"Not worth the money, poor quality Handbag.",2,No,3,Negative
+1444,Electronics,Bluetooth Speaker,U7835,Not good,Exceeded my expectations! Great Bluetooth Speaker.,1,Yes,46,Negative
+1445,Books,Self-help Book,U3068,Okay,Decent Self-help Book for the price point.,5,Yes,7,Positive
+1446,Books,Self-help Book,U8867,Terrible,I use this Self-help Book every day and it’s fantastic.,1,No,2,Negative
+1447,Electronics,Wireless Headphones,U7277,Great!,"The Wireless Headphones works okay, but could be better.",2,Yes,18,Negative
+1448,Home & Kitchen,Blender,U5118,Great!,"The Blender works okay, but could be better.",1,Yes,38,Negative
+1449,Beauty,Perfume,U2245,Terrible,"The Perfume works okay, but could be better.",1,No,10,Negative
+1450,Books,Self-help Book,U9334,Loved it,Exceeded my expectations! Great Self-help Book.,4,No,24,Positive
+1451,Fashion,T-shirt,U8224,Loved it,I use this T-shirt every day and it’s fantastic.,3,Yes,48,Neutral
+1452,Books,Fiction Novel,U3908,Terrible,Really disappointed with the Fiction Novel.,1,No,49,Negative
+1453,Fashion,Jacket,U7605,Loved it,Exceeded my expectations! Great Jacket.,2,Yes,15,Negative
+1454,Home & Kitchen,Coffee Maker,U2161,Terrible,Exceeded my expectations! Great Coffee Maker.,2,Yes,10,Negative
+1455,Home & Kitchen,Vacuum Cleaner,U4294,Great!,I use this Vacuum Cleaner every day and it’s fantastic.,2,Yes,20,Negative
+1456,Books,Fiction Novel,U7401,Not good,The Fiction Novel stopped working after a week.,4,Yes,39,Positive
+1457,Electronics,Laptop,U4407,Terrible,The Laptop stopped working after a week.,2,No,26,Negative
+1458,Beauty,Lipstick,U5598,Great!,"Not worth the money, poor quality Lipstick.",1,Yes,7,Negative
+1459,Fashion,Jacket,U3250,Terrible,Really disappointed with the Jacket.,4,No,41,Positive
+1460,Home & Kitchen,Microwave Oven,U1987,Not good,"The Microwave Oven works okay, but could be better.",5,No,27,Positive
+1461,Beauty,Hair Dryer,U8506,Great!,The Hair Dryer stopped working after a week.,1,No,50,Negative
+1462,Home & Kitchen,Coffee Maker,U5624,Not good,"Not worth the money, poor quality Coffee Maker.",2,Yes,35,Negative
+1463,Books,Children's Story,U7243,Okay,Really disappointed with the Children's Story.,2,No,30,Negative
+1464,Electronics,Wireless Headphones,U2839,Loved it,"Not worth the money, poor quality Wireless Headphones.",5,No,41,Positive
+1465,Beauty,Hair Dryer,U3536,Loved it,Decent Hair Dryer for the price point.,5,Yes,45,Positive
+1466,Beauty,Hair Dryer,U3444,Great!,"The Hair Dryer is amazing, I love it!",1,No,48,Negative
+1467,Books,Children's Story,U4373,Terrible,Really disappointed with the Children's Story.,5,Yes,20,Positive
+1468,Electronics,Wireless Headphones,U3710,Great!,"Not worth the money, poor quality Wireless Headphones.",2,Yes,7,Negative
+1469,Books,Biography,U2099,Loved it,I use this Biography every day and it’s fantastic.,2,No,21,Negative
+1470,Books,Fiction Novel,U3753,Great!,The Fiction Novel stopped working after a week.,5,Yes,40,Positive
+1471,Beauty,Hair Dryer,U5960,Okay,The Hair Dryer stopped working after a week.,2,No,1,Negative
+1472,Fashion,Sneakers,U1155,Great!,Decent Sneakers for the price point.,2,Yes,39,Negative
+1473,Electronics,Bluetooth Speaker,U1462,Not good,Really disappointed with the Bluetooth Speaker.,4,No,4,Positive
+1474,Fashion,Jacket,U5578,Terrible,I use this Jacket every day and it’s fantastic.,5,No,3,Positive
+1475,Fashion,Jacket,U8719,Loved it,I use this Jacket every day and it’s fantastic.,3,Yes,2,Neutral
+1476,Fashion,Handbag,U9029,Terrible,Really disappointed with the Handbag.,3,Yes,38,Neutral
+1477,Fashion,T-shirt,U6016,Not good,Exceeded my expectations! Great T-shirt.,3,Yes,22,Neutral
+1478,Home & Kitchen,Air Fryer,U1029,Okay,Really disappointed with the Air Fryer.,5,No,43,Positive
+1479,Fashion,Jeans,U9237,Okay,I use this Jeans every day and it’s fantastic.,4,Yes,12,Positive
+1480,Beauty,Lipstick,U6838,Not good,The Lipstick stopped working after a week.,2,Yes,28,Negative
+1481,Books,Children's Story,U1214,Terrible,Really disappointed with the Children's Story.,2,Yes,26,Negative
+1482,Home & Kitchen,Vacuum Cleaner,U6022,Terrible,Exceeded my expectations! Great Vacuum Cleaner.,2,Yes,5,Negative
+1483,Electronics,Smartwatch,U3128,Not good,Really disappointed with the Smartwatch.,2,Yes,19,Negative
+1484,Beauty,Hair Dryer,U8941,Terrible,"The Hair Dryer is amazing, I love it!",2,No,23,Negative
+1485,Beauty,Shampoo,U8798,Loved it,"The Shampoo works okay, but could be better.",3,No,8,Neutral
+1486,Fashion,Sneakers,U1799,Okay,Decent Sneakers for the price point.,4,No,26,Positive
+1487,Books,Biography,U4846,Okay,Decent Biography for the price point.,5,Yes,13,Positive
+1488,Beauty,Hair Dryer,U5560,Okay,Exceeded my expectations! Great Hair Dryer.,1,No,8,Negative
+1489,Books,Fiction Novel,U2361,Not good,Decent Fiction Novel for the price point.,4,No,25,Positive
+1490,Books,Fiction Novel,U9119,Great!,"The Fiction Novel works okay, but could be better.",3,Yes,34,Neutral
+1491,Beauty,Shampoo,U7187,Okay,I use this Shampoo every day and it’s fantastic.,4,No,19,Positive
+1492,Fashion,Jacket,U5118,Okay,I use this Jacket every day and it’s fantastic.,5,No,27,Positive
+1493,Fashion,Jacket,U7233,Loved it,Decent Jacket for the price point.,2,No,30,Negative
+1494,Home & Kitchen,Microwave Oven,U4703,Loved it,"The Microwave Oven works okay, but could be better.",2,Yes,44,Negative
+1495,Home & Kitchen,Microwave Oven,U5902,Terrible,Exceeded my expectations! Great Microwave Oven.,5,Yes,21,Positive
+1496,Fashion,Sneakers,U5031,Loved it,"Not worth the money, poor quality Sneakers.",4,Yes,39,Positive
+1497,Home & Kitchen,Vacuum Cleaner,U8326,Okay,I use this Vacuum Cleaner every day and it’s fantastic.,5,No,50,Positive
+1498,Books,Fiction Novel,U5501,Not good,Really disappointed with the Fiction Novel.,5,No,42,Positive
+1499,Books,Children's Story,U2037,Not good,Exceeded my expectations! Great Children's Story.,5,Yes,50,Positive
+1500,Beauty,Lipstick,U4663,Loved it,Decent Lipstick for the price point.,2,No,34,Negative
